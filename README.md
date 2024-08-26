@@ -6,9 +6,26 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Matrix
 |  |
 | ------- |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
