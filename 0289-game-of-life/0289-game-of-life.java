@@ -16,9 +16,7 @@ class Solution {
                         }
                     }
                 }
-                if (liveCell < 2 && board[i][j] == 1) {
-                    board[i][j] = board[i][j] * -1;
-                } else if (liveCell > 3 && board[i][j] == 1){
+                if ((liveCell < 2 || liveCell > 3) && board[i][j] == 1) {
                     board[i][j] = board[i][j] * -1;
                 } else if(liveCell == 3 && board[i][j] == 0) {
                     board[i][j] = 2;
