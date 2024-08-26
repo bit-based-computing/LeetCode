@@ -8,8 +8,10 @@ class Solution {
             for (int j = 0; j < col; j++) {
                 int liveCell = 0;
                 for (int k = 0; k < 8; k++) {
-                    if (isValid(i + dr[k], j + dc[k], row, col)) {
-                        if (Math.abs(board[i + dr[k]][j + dc[k]]) == 1) {
+                    int r = i + dr[k];
+                    int c = j + dc[k];
+                    if (isValid(r, c, row, col)) {
+                        if (Math.abs(board[r][c]) == 1) {
                             liveCell++;
                         }
                     }
