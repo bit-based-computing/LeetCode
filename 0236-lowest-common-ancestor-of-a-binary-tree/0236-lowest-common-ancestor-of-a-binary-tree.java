@@ -1,43 +1,28 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ * int val;
+ * TreeNode left;
+ * TreeNode right;
+ * TreeNode(int x) { val = x; }
  * }
  */
 class Solution {
-   
-    Map<TreeNode, TreeNode> map = new HashMap<>();
-    Map<TreeNode, Boolean> visit = new HashMap<>();
+
+    TreeNode lca = null;
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        visitTree(root);
-
-        visit.put(p, true);
-
-        while(map.get(p) != null) {
-            p = map.get(p);
-            visit.put(p, true);
-        }
-        if(visit.get(q) != null) return q;
-
-        while(map.get(q) != null) {
-            q = map.get(q);
-            if(visit.get(q) != null) return q;
-        }
-        return root;
+        hasPAndQ(root, p, q);
+        return lca;
     }
-    private void visitTree(TreeNode root) {
-        if (root == null) return;
-        if (root.left != null) {
-            map.put(root.left, root);
-            visitTree(root.left);
-        }
-        if (root.right != null) {
-            map.put(root.right, root);
-            visitTree(root.right);
-        }
+
+    private int hasPAndQ(TreeNode root, TreeNode p, TreeNode q) {
+        int ret = 0;
+        if (root == null) return 0;
+        if (root.val == p.val || root.val == q.val) ret++;
+        ret += hasPAndQ(root.left, p, q);
+        ret += hasPAndQ(root.right, p, q);
+        if (ret == 2 && lca == null) lca = root;
+        return ret;
     }
 }
