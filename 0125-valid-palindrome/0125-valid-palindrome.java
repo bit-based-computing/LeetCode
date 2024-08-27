@@ -1,21 +1,27 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        char[] sArray = s.toCharArray();
-        int k = 0;
-        for(int i = 0; i < s.length(); i++) {
-            if(Character.isAlphabetic(sArray[i]) || Character.isDigit(sArray[i])) {
-                sArray[k++] = Character.toLowerCase(sArray[i]);
+        s = s.toLowerCase();
+        char[] chars = s.toCharArray();
+        int l = 0;
+        int r = s.length() - 1;
+        boolean lAlphanumeric = false;
+        boolean rAlphanumeric = false;
+        while (l < r) {
+            lAlphanumeric = isAlphanumeric(chars[l]);
+            rAlphanumeric = isAlphanumeric(chars[r]);
+            if(lAlphanumeric && rAlphanumeric) {
+                if(chars[l] != chars[r]) return false;
+                l++;
+                r--;
+            } else {
+                if(!lAlphanumeric) l++;
+                if(!rAlphanumeric) r--;
             }
         }
-        int l = 0;
-        int r = k - 1;
-        while (l < r) {
-            if(sArray[l] != sArray[r]) return false;
-            l++;
-            r--;
-        }
-
         return true;
+    }
 
+    private boolean isAlphanumeric(char c) {
+         return (c >= '0' && c <= '9') || (c >= 'a' && c <= 'z');
     }
 }
