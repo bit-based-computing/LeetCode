@@ -7,7 +7,6 @@ class Solution {
         int maxH = 0;
         while(l <= r) {
             int mid = l + (r - l)/2;
-            System.out.println(mid);
             if(citations[mid] >= len - mid) {
                 maxH = len - mid;
                 r = mid - 1;
