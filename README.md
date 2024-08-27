@@ -6,6 +6,7 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
@@ -57,6 +58,7 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
 ## String
