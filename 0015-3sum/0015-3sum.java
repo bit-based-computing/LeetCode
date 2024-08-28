@@ -8,12 +8,12 @@ class Solution {
             int l = i+1;
             int r = len - 1;
             while (l < r) {
-                if (nums[i] + nums[l] + nums[r] == 0) {
+                if (nums[l] + nums[r] == -nums[i]) {
                    ans.add(new ArrayList<>(Arrays.asList(nums[i], nums[l], nums[r])));
                    l++;
                    r--;
                    while (l < r && nums[l] == nums[l-1]) l++;
-                } else if (nums[i] + nums[l] + nums[r] > 0) {
+                } else if (nums[l] + nums[r] > -nums[i]) {
                     r--;
                 } else {
                     l++;
