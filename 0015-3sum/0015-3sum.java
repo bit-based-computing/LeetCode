@@ -9,16 +9,15 @@ class Solution {
             int r = len - 1;
             while (l < r) {
                 if (nums[i] + nums[l] + nums[r] == 0) {
-                    ans.add(new ArrayList<>(Arrays.asList(nums[i], nums[l], nums[r])));
+                   ans.add(new ArrayList<>(Arrays.asList(nums[i], nums[l], nums[r])));
                    l++;
-                   while(l < r && nums[l] == nums[l-1]) {
-                    l++;
-                   }
+                   r--;
+                   while (l < r && nums[l] == nums[l-1]) l++;
                 } else if (nums[i] + nums[l] + nums[r] > 0) {
                     r--;
                 } else {
                     l++;
-                }
+                }                   
             }
         }
         return ans;
