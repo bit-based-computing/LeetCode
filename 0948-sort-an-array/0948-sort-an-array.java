@@ -1,13 +1,13 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        devide(0, nums.length - 1, nums);
+        divide(0, nums.length - 1, nums);
         return nums;
     }
-    private void devide(int l, int r, int[] nums) {
+    private void divide(int l, int r, int[] nums) {
         if(l == r || l > r) return;
         int mid = l + (r - l)/2;
-        devide(l, mid, nums);
-        devide(mid + 1, r, nums);
+        divide(l, mid, nums);
+        divide(mid + 1, r, nums);
         merge(l, mid, r, nums);
     }
 
