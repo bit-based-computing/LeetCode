@@ -8,6 +8,7 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 | ------- |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0275-h-index-ii) |
@@ -78,11 +79,13 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
 ## Tree
 |  |
@@ -96,4 +99,12 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
