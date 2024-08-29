@@ -127,4 +127,12 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
