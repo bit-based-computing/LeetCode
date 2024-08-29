@@ -135,4 +135,13 @@ A collection of LeetCode & GeekForGeeks questions to ace the coding interview! -
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
