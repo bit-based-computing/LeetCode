@@ -1,15 +1,11 @@
 class Solution {
     public boolean isIdealPermutation(int[] nums) {
         int len = nums.length;
-        int localInv = 0;
-        int globalInv = 0;
 
-        for (int i = 0; i < len - 1; i++) {
-            if(nums[i] > nums[i+1]) localInv++;
+        for (int i = 0; i < len; i++) {
+            if(Math.abs(i-nums[i]) > 1) return false;
         }
-
-        globalInv = divide(0, len-1, nums);
-        return globalInv == localInv;
+        return true;
     }
 
     private int divide(int left, int right, int[] nums) {
