@@ -24,7 +24,10 @@ class Solution {
         if(root == null || count > k) return ;
         kthValue(root.left, k);
         count++;
-        if(count == k) ans = root.val;
+        if(count == k){
+            ans = root.val;
+            return;
+        } 
         kthValue(root.right, k);
     }
 }
