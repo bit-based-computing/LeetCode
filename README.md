@@ -110,16 +110,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
