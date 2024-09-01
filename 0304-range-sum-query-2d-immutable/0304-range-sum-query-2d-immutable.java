@@ -7,9 +7,7 @@ class NumMatrix {
         for (int i = 0; i < row; i++) {
             for (int j = 0; j< col; j++) {
                 dp[i+1][j+1] = matrix[i][j] + dp[i][j+1] + dp[i+1][j] - dp[i][j];
-                System.out.print(dp[i+1][j+1] + " ");
             }
-            System.out.println();
         }
     }
     
