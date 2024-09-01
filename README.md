@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0275-h-index-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 ## Stack
