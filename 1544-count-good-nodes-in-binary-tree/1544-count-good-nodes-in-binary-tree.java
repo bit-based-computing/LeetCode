@@ -22,8 +22,10 @@ class Solution {
     }
     private void countGoodNode(TreeNode root, int max){
         if(root == null) return;
-        if(root.val >= max) count++;
-        max = Math.max(max,root.val);
+        if(root.val >= max) {
+            count++;
+            max = Math.max(max,root.val);
+        } 
         countGoodNode(root.left, max);
         countGoodNode(root.right, max);
     }
