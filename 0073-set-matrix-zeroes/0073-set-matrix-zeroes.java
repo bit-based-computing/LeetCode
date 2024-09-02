@@ -29,21 +29,21 @@ class Solution {
         }
 
         if (hasFirstRow) {
-            for (int c = 0; c < col; c++) matrix[0][c] = 0;
+            nullifyRow(0, matrix);
         }
         if (hasFirstCol) {
-            for(int r = 0; r < row; r++) matrix[r][0] = 0;
+            nullifyColumn(0, matrix);
         }
 
     }
 
     private void nullifyColumn(int col, int[][] matrix) {
         int row = matrix.length;
-        for(int r = 1; r < row; r++) matrix[r][col] = 0;
+        for(int r = 0; r < row; r++) matrix[r][col] = 0;
     }
 
     private void nullifyRow(int row, int[][] matrix) {
         int col = matrix[0].length;
-        for(int c = 1; c < col; c++) matrix[row][c] = 0;
+        for(int c = 0; c < col; c++) matrix[row][c] = 0;
     }
 }
