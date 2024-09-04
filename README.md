@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0334-increasing-triplet-subsequence) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
@@ -196,10 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 ## Breadth-First Search
 |  |
