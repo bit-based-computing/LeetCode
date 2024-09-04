@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0074-search-a-2d-matrix) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
 ## Bit Manipulation
