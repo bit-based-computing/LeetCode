@@ -13,7 +13,6 @@ class Solution {
                 int b = matrix[i][c2];
                 int c = matrix[r2][c2 - (i-c1)];
                 int d = matrix[r2-(i-c1)][c1];
-                System.out.println(a + " " + b + " " + c + " " + d);
                 matrix[r1][i] = d;
                 matrix[i][c2] = a;
                 matrix[r2][c2 - (i-c1)] = b;
