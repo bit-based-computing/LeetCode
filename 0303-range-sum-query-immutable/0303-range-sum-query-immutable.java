@@ -9,9 +9,8 @@ class NumArray {
     }
     
     public int sumRange(int left, int right) {
-        int ans = sums[right];
-        if(left > 0) ans -= sums[left-1];
-        return ans;
+        if(left == 0) return sums[right];
+        return sums[right] - sums[left-1];
     }
 }
 
