@@ -28,17 +28,8 @@ class Solution {
             mergedList = mergedList.next;
         }
 
-        while (list1 != null) {
-            mergedList.next = list1;
-            mergedList = mergedList.next;
-            list1 = list1.next;
-        }
-
-        while (list2 != null) {
-            mergedList.next = list2;
-            mergedList = mergedList.next;
-            list2 = list2.next;
-        }
+       if(list1 == null) mergedList.next = list2;
+       if(list2 == null) mergedList.next = list1;
 
         return head.next;
     }
