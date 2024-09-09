@@ -6,9 +6,9 @@ class Solution {
         for(int i = 0; i < nums.length; i++) {
             sum += nums[i];
             if(nums[i] == 0) {
-                  if(psum + sum > ans) ans = psum + sum;
-                  psum = sum;
-                  sum = 0;
+                if(psum + sum > ans) ans = psum + sum;
+                psum = sum;
+                sum = 0;
             }
         }
         sum = psum + sum;
