@@ -12,12 +12,7 @@ class Solution {
                 sum = 0;
             }
         }
-        if(sum > 0) list.add(sum);
-        for(int num : list) {
-            System.out.print(num + " ");
-        }
-        System.out.println();
-        if(sum != 0) list.add(0);
+        if(sum != 0) list.add(sum);
         int l = 0;
         int r = 0;
         int maxSum = 0;
@@ -31,7 +26,6 @@ class Solution {
                         sum -= list.get(l);
                         l++;
                     }
-                    // System.out.println("l =" + l + " r=" + r + " " + sum);
                     l++;
                     k = 0;
                 }
@@ -40,7 +34,6 @@ class Solution {
                 sum += num;
                 if(sum > maxSum) {
                     maxSum = sum;
-                    // System.out.println(r + " " + maxSum);
                 }
             }
             r++;
