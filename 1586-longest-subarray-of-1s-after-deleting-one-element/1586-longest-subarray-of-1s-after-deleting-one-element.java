@@ -1,6 +1,5 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        List<Integer> list = new ArrayList<>();
         int psum = 0;
         int sum = 0;
         int ans = 0;
@@ -14,7 +13,7 @@ class Solution {
         }
         sum = psum + sum;
         if(sum > ans) ans = sum; 
-        if(sum == nums.length) return sum - 1;
+        if(ans == nums.length) return ans - 1;
         return ans;
     }
 }
