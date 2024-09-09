@@ -10,10 +10,8 @@ class Solution {
                     sum = 0;
             }
         }
-        if(sum > 0) {
-            list.add(sum);
-            if(sum > ans) ans = sum;
-        }
+        list.add(sum);
+        if(sum > ans) ans = sum;
         for(int i = 1; i < list.size(); i++) {
            sum = list.get(i) + list.get(i-1);
             if(sum > ans) {
