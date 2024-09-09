@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0443-string-compression) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
