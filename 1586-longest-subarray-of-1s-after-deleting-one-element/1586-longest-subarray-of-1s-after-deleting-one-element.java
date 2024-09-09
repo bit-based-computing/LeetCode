@@ -7,7 +7,6 @@ class Solution {
             sum += nums[i];
             if(nums[i] == 0) {
                     list.add(sum);
-                    if(sum > ans) ans = sum;
                     sum = 0;
             }
         }
