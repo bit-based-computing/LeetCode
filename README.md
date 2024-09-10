@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Matrix
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
+| [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Queue
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
+| [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
