@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
+| [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
+| [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
+| [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
