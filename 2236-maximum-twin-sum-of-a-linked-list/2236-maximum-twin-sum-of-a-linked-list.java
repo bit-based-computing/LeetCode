@@ -10,21 +10,32 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        List<Integer> list = new ArrayList<>();
-        while(head != null) {
-            list.add(head.val);
-            head = head.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        int l = 0;
-        int r = list.size() - 1;
+        ListNode head2 = reverse(slow.next);
         int maxSum = 0;
         int sum = 0;
-        while(l < r) {
-            sum = (int)list.get(l) + (int)list.get(r);
+        while(head != null && head2 != null) {
+            sum = head.val + head2.val;
             if(sum > maxSum) maxSum = sum;
-            l++;
-            r--;
+            head = head.next;
+            head2 = head2.next;
         }
         return maxSum;
+    }
+
+    private ListNode reverse(ListNode head) {
+        ListNode prev = null;
+        while(head != null) {
+            ListNode temp = head.next;
+            head.next = prev;
+            prev = head;
+            head = temp;
+        }
+        return prev;
     }
 }
