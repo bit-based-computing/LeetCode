@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
