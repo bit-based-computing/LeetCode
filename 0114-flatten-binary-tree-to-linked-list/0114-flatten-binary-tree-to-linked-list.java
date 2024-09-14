@@ -14,6 +14,9 @@
  * }
  */
 class Solution {
+
+    // first set all left then process right
+
     TreeNode cuRoot = null;
     public void flatten(TreeNode root) {
         if(root == null) return;
@@ -29,4 +32,18 @@ class Solution {
             flatten(right);
         }
     }
+
+    /* another way 
+        // first set all right then process left
+        TreeNode prev = null;
+        public void flatten(TreeNode root) {
+        if(root == null) return;
+        flatten(root.right);
+        flatten(root.left);
+        root.right = prev;
+        root.left = null;
+        prev = root;
+    }
+
+    */
 }
