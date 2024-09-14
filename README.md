@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0210-course-schedule-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
