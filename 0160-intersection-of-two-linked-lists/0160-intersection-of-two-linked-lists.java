@@ -11,20 +11,20 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        Map<ListNode, Integer> map = new HashMap<>();
-        while(headA != null || headB != null) {
-            if(headA != null) {
-                if(map.get(headA) != null) return headA;
-                map.put(headA,1);
-                headA = headA.next;
+        ListNode hA = headA;
+        ListNode hB = headB;
+        while(hA != hB) {
+            if(hA != null) {
+                hA = hA.next;
+            } else {
+                hA = headB;
             }
-
-            if(headB != null) {
-                if(map.get(headB) != null) return headB;
-                map.put(headB,1);
-                headB = headB.next;
+            if(hB != null) {
+                hB = hB.next;
+            } else {
+                hB = headA;
             }
         }
-        return null;
+        return hA;
     }
 }
