@@ -7,12 +7,9 @@ class Solution {
         
         Set<Integer> s = new HashSet<>();
 
-        for(Integer key : map.keySet()) {
-            if(s.contains(map.get(key))) {
-                return false;
-            } else {
-                s.add(map.get(key));
-            }
+        for(Integer value : map.values()) {
+            if(!s.contains(value)) s.add(value);
+            else return false;
         }
         return true;
     }
