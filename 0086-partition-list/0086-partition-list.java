@@ -12,6 +12,7 @@ class Solution {
     public ListNode partition(ListNode head, int x) {
         ListNode temp = head;
         ListNode fHead = new ListNode(-1);
+        fHead.next = head;
         ListNode lastSmallNode = fHead;
 
         while (temp != null && temp.val < x) {
@@ -19,7 +20,6 @@ class Solution {
             lastSmallNode = lastSmallNode.next;
             temp = temp.next;
         }
-        if(temp == head) lastSmallNode.next = head;
         ListNode prev = lastSmallNode;
         while (temp != null) {
             ListNode ln = lastSmallNode.next;
