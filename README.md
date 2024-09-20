@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
