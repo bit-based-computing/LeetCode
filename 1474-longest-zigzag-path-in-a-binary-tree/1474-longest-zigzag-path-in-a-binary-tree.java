@@ -22,7 +22,7 @@ class Solution {
     }
 
     private void getAns(int count, int side, TreeNode root) {
-         if(root == null) return;
+        if(root == null) return;
         ans = Math.max(ans, count);
         if(side == 1) {
             getAns(1, 1, root.right);
