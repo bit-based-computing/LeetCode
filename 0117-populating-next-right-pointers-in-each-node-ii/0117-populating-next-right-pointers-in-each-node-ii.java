@@ -28,14 +28,15 @@ class Solution {
         q.add(root);
         while(!q.isEmpty()) {
             int size = q.size();
-            Node prev = null;
-            for (int i = 0; i < size; i++) {
+            Node prev = q.poll();
+            if(prev.left != null) q.add(prev.left);
+            if(prev.right != null) q.add(prev.right);
+
+            for (int i = 0; i < size - 1; i++) {
                 Node node = q.poll();
                 if(node.left != null) q.add(node.left);
                 if(node.right != null) q.add(node.right);
-                if(prev != null) {
-                    prev.next = node;
-                }
+                prev.next = node;
                 prev = node;
             }
         }
