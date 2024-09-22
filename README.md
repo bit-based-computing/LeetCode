@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
@@ -272,12 +275,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0783-search-in-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
@@ -324,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
