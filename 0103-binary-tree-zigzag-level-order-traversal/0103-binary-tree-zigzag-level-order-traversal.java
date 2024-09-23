@@ -17,9 +17,6 @@ class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
         addNodes(root, list, 0);
-        for(int i = 1; i < list.size(); i = i + 2) {
-            Collections.reverse(list.get(i));
-        }
         return list;
     }
 
@@ -27,7 +24,8 @@ class Solution {
         if(root == null) return ;
         if(level >= list.size())
             list.add(new ArrayList<Integer>());
-        list.get(level).add(root.val);
+        if(level % 2 == 0) list.get(level).add(root.val);
+        else list.get(level).add(0, root.val);
         addNodes(root.left, list, level + 1);
         addNodes(root.right, list, level + 1);
     }
