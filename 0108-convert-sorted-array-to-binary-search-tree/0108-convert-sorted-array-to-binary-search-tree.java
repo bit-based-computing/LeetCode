@@ -16,27 +16,15 @@
 class Solution {
 
     public TreeNode sortedArrayToBST(int[] nums) {
-        TreeNode head = new TreeNode();
-        generateTree(0, nums.length - 1, head, nums);
-        return head;
+        return generateTree(0, nums.length - 1, nums);
     }
 
-    private void generateTree(int l , int r, TreeNode head, int[] nums){
-        if(l == r){
-            head.val = nums[l];
-        } else {
-            int mid = (l+r)/2;
-            head.val = nums[mid];
-            if(mid - 1 >= l){
-                head.left = new TreeNode();
-                generateTree(l, mid - 1, head.left, nums);
-            } 
-            if(mid + 1 <= r){
-                head.right = new TreeNode();
-                generateTree(mid + 1, r, head.right, nums);
-            } 
-        }
+    private TreeNode generateTree(int l , int r, int[] nums){
+       if (l > r) return null;
+       int mid = l + (r-l)/2;
+       TreeNode node = new TreeNode(nums[mid]);
+       node.left = generateTree(l, mid - 1, nums);
+       node.right = generateTree(mid + 1, r, nums);
+       return node;
     }
-
-
 }
