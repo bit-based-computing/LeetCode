@@ -26,8 +26,7 @@ class Solution {
             for(int i = 0; i < size; i++) {
                 TreeNode node = q.poll();
                 if(node.left == null && node.right == null) {
-                    q.clear();
-                    break;
+                   return count;
                 }
                 if(node.left != null) q.add(node.left);
                 if(node.right != null) q.add(node.right);
