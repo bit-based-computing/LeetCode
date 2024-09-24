@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0210-course-schedule-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0210-course-schedule-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
