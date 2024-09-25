@@ -5,7 +5,7 @@ class Solution {
 
         for(int i = len -1; i >= 0; i--) {
             int num = asteroids[i];
-            if(s.isEmpty() || num < 0) {
+            if(num < 0) {
                 s.add(num);
             } else {
                 while(!s.isEmpty() && s.peek() < 0 && -s.peek() < num) {
