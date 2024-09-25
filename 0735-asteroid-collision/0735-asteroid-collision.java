@@ -5,28 +5,14 @@ class Solution {
 
         for(int i = len -1; i >= 0; i--) {
             int num = asteroids[i];
-            if(s.isEmpty()) {
-                s.add(num);
-            } else if(num < 0) {
+            if(s.isEmpty() || num < 0) {
                 s.add(num);
             } else {
-                if(num > 0) {
-                    while(!s.isEmpty() && s.peek() < 0) {
-                        if(Math.abs(s.peek()) < num) {
+                while(!s.isEmpty() && s.peek() < 0 && Math.abs(s.peek()) < num) {
                             s.pop();
-                        } else {
-                            break;
-                        }
                     }
-                    if(s.isEmpty()) s.add(num);
-                    else {
-                        if(s.peek() < 0 && Math.abs(s.peek()) == num) s.pop();
-                        else if(s.peek() > 0) {
-                            s.add(num);
-                        }
-                    }
-
-                }
+                if(s.isEmpty() || s.peek() > 0) s.add(num);
+                else if(s.peek() < 0 && Math.abs(s.peek()) == num) s.pop();
             }
         }
         int[] ans = new int[s.size()];
