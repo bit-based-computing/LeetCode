@@ -8,11 +8,11 @@ class Solution {
             if(s.isEmpty() || num < 0) {
                 s.add(num);
             } else {
-                while(!s.isEmpty() && s.peek() < 0 && Math.abs(s.peek()) < num) {
+                while(!s.isEmpty() && s.peek() < 0 && -s.peek() < num) {
                             s.pop();
                     }
                 if(s.isEmpty() || s.peek() > 0) s.add(num);
-                else if(s.peek() < 0 && Math.abs(s.peek()) == num) s.pop();
+                else if(s.peek() < 0 && -s.peek() == num) s.pop();
             }
         }
         int[] ans = new int[s.size()];
