@@ -21,7 +21,6 @@ public class Codec {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        System.out.println(data);
         String[] nodes = data.split(",");
         size = nodes.length - 1;
         return buildTree(nodes);
