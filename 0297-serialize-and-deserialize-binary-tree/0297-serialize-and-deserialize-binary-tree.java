@@ -16,7 +16,13 @@ public class Codec {
         if(root == null) return "X";
         String left = serialize(root.left);
         String right = serialize(root.right);
-        return root.val + "," + left + "," + right;
+        StringBuilder s = new StringBuilder();
+        s.append(root.val);
+        s.append(",");
+        s.append(left);
+        s.append(",");
+        s.append(right);
+        return s.toString();
     }
 
     // Decodes your encoded data to tree.
