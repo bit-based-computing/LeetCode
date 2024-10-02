@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
@@ -395,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
