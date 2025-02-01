@@ -7,7 +7,7 @@ class Solution {
         for(int num: nums) {
             if(num <= first) {
                 first = num;
-            } else if (num <= second) {
+            } else if(num <= second) {
                 second = num;
             } else {
                 return true;
