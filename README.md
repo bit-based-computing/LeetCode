@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
