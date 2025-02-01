@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Matrix
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
