@@ -1,28 +1,25 @@
 class Solution {
-    public boolean isPalindrome(String s) {
-        char[] chars = s.toCharArray();
-        int l = 0;
-        int r = s.length() - 1;
-        boolean lAlphanumeric = false;
-        boolean rAlphanumeric = false;
-        while (l < r) {
-            lAlphanumeric = isAlphanumeric(chars[l]);
-            rAlphanumeric = isAlphanumeric(chars[r]);
-            if(lAlphanumeric && rAlphanumeric) {
-                if(Character.toLowerCase(chars[l]) != Character.toLowerCase(chars[r]))
-                     return false;
-                l++;
-                r--;
-            } else {
-                if(!lAlphanumeric) l++;
-                if(!rAlphanumeric) r--;
-            }
+
+    public boolean isAlphanumeric(char c) {
+        if ((c >= '0' && c <= '9') || (c >= 'A' && c <= 'Z') ||
+                (c >= 'a' && c <= 'z')) {
+            return true;
         }
-        return true;
+        return false;
     }
 
-    private boolean isAlphanumeric(char c) {
-         return (c >= '0' && c <= '9') || (c >= 'a' && c <= 'z') ||
-                 (c >= 'A' && c <= 'Z');
+    public boolean isPalindrome(String s) {
+        s = s.toLowerCase();
+        char[] array = s.toCharArray();
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < array.length; i++) {
+            if (isAlphanumeric(array[i])) {
+                sb.append(array[i]);
+            }
+        }
+        String ns = sb.toString();
+        String rs = sb.reverse().toString();
+        return ns.equals(rs);
+
     }
 }
