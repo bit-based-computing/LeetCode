@@ -27,10 +27,10 @@ class Solution {
                 }
             }
         }
-        String ans = "";
+        StringBuilder sa = new StringBuilder();
         for(int i = 0; i < numRows; i++) {
-            ans = ans + sb[i].toString();
+            sa.append(sb[i]);
         }
-        return ans;
+        return sa.toString();
     }
 }
