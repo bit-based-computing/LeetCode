@@ -1,29 +1,58 @@
-
-class CMap {
+class Pair {
+    int key;
     int value;
-    public CMap() {
+    public Pair(int key, int value) {
+        this.key = key;
+        this.value = value;
     }
 }
+
 class MyHashMap {
-    CMap[] maps;
+
+    int bucketSize = 10000;
+    List<Pair> [] bucket;
+
     public MyHashMap() {
-         maps = new CMap[1000001]; 
+        bucket = new ArrayList[bucketSize];
+        for(int i = 0; i < bucketSize; i++) {
+            bucket[i] = new ArrayList<>();
+        }
     }
     
     public void put(int key, int value) {
-        if(maps[key] == null) {
-            maps[key] = new CMap();
+        int idx = key % bucketSize;
+        for(Pair pair: bucket[idx]) {
+            if(pair.key == key) {
+                pair.value = value;
+                return;
+            }
         }
-        maps[key].value = value;
+
+        bucket[idx].add(new Pair(key, value));
     }
     
     public int get(int key) {
-        if(maps[key] == null) return -1;
-        return maps[key].value;
+        int idx = key % bucketSize;
+        for(Pair pair: bucket[idx]) {
+            if(pair.key == key) {
+                return pair.value;
+            }
+        }
+        return -1;
     }
     
     public void remove(int key) {
-        maps[key] = null;
+        int idx = key % bucketSize;
+        Pair removePair = null;
+        for(Pair pair: bucket[idx]) {
+            if(pair.key == key) {
+                removePair = pair;
+                break;
+            }
+        }
+        if(removePair != null) {
+            bucket[idx].remove(removePair);
+        }
     }
 }
 
