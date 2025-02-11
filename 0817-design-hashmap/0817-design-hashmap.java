@@ -43,15 +43,11 @@ class MyHashMap {
     
     public void remove(int key) {
         int idx = key % bucketSize;
-        Pair removePair = null;
         for(Pair pair: bucket[idx]) {
             if(pair.key == key) {
-                removePair = pair;
-                break;
+                bucket[idx].remove(pair);
+                return;
             }
-        }
-        if(removePair != null) {
-            bucket[idx].remove(removePair);
         }
     }
 }
