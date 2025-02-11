@@ -3,13 +3,14 @@ class Solution {
         int l = 0;
         int r = nums.length - 1;
         int[] ans = new int[2];
-        while(l < r) {
-            if(nums[l] + nums[r] == target) {
+        int sum = 0;
+        while (l < r) {
+            sum = nums[l] + nums[r];
+            if (sum == target) {
                 ans[0] = l + 1;
                 ans[1] = r + 1;
                 break;
-            }
-            if(nums[l] + nums[r] > target) {
+            } else if (sum > target) {
                 r--;
             } else {
                 l++;
