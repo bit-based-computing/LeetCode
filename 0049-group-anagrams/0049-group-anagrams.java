@@ -12,8 +12,7 @@ class Solution {
         for(String s: strs) {
             String sorted = sort(s);
             if(map.get(sorted) == null) map.put(sorted, new ArrayList<String>());
-            List<String> ls = map.get(sorted);
-            ls.add(s);
+            map.get(sorted).add(s);
         }
         for(List<String> value: map.values()) {
             ans.add(value);
