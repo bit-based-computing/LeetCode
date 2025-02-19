@@ -5,15 +5,15 @@ class Solution {
         Arrays.sort(ca);
         return new String(ca);
     }
+
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> ans = new ArrayList<>();
         Map<String, List<String>> map = new HashMap<>();
-        for(int i = 0; i < strs.length; i++) {
-            String s = strs[i];
+        for(String s: strs) {
             String sorted = sort(s);
-            List<String> ls = map.getOrDefault(sorted, new ArrayList<String>());
+            if(map.get(sorted) == null) map.put(sorted, new ArrayList<String>());
+            List<String> ls = map.get(sorted);
             ls.add(s);
-            map.put(sorted, ls);
         }
         for(List<String> value: map.values()) {
             ans.add(value);
