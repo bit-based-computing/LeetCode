@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0142-linked-list-cycle-ii) |
