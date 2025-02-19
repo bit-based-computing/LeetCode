@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Ordered Set
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0125-valid-palindrome) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0119-pascals-triangle-ii) |
