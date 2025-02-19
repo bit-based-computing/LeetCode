@@ -16,7 +16,6 @@ class Solution {
                 map.put(ch[i], i);
             }
         }
-        System.out.println(count);
         return Math.max(ans, count);
     }
 }
