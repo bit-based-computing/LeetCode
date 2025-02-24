@@ -4,10 +4,8 @@ class Solution {
       for(int i = 0; i < nums.length; i++) {
          if(map.get(nums[i]) != null) {
             if(i - map.get(nums[i]) <= k) return true;
-            map.put(nums[i], i);
-         } else {
-            map.put(nums[i], i);
          }
+        map.put(nums[i], i);
       }
       return false;
     }
