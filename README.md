@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0260-single-number-iii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
