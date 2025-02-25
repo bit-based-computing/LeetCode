@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0547-number-of-provinces) |
 ## Memoization
 |  |
