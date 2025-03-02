@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0443-string-compression) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1297-maximum-number-of-balloons) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
