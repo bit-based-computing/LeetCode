@@ -1,6 +1,6 @@
 class Solution {
 
-    int getLowerBound(int x, List<Integer> list) {
+    int getUpperBound(int x, List<Integer> list) {
             int l = 0;
             int r = list.size() - 1;
             while(l < r) {
@@ -30,7 +30,7 @@ class Solution {
             for(int j = 0; j < words[i].length(); j++) {
                 char x = words[i].charAt(j);
                 if(map.get(x) != null){
-                    int nextIndex = getLowerBound(start, map.get(x));
+                    int nextIndex = getUpperBound(start, map.get(x));
                     if(nextIndex > start) {
                         start = nextIndex;
                         count++;
