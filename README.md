@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Matrix
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
