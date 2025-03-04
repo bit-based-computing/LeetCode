@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0643-maximum-average-subarray-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0567-permutation-in-string) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
