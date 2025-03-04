@@ -14,9 +14,6 @@ class Solution {
             while((r-l+1-maxFreq) > k) {
                 index = s.charAt(l++) - 'A';
                 freq[index]--;
-                for(int i = 0; i < 26; i++) {
-                    if(freq[i] > maxFreq) maxFreq = freq[i];
-                }
             }
             if((r-l+1) > ans) ans = r-l+1;
             r++;
