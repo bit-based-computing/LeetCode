@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1063-best-sightseeing-pair](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1063-best-sightseeing-pair) |
 | [1319-unique-number-of-occurrences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
+| [1063-best-sightseeing-pair](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
