@@ -1,46 +1,26 @@
 class Solution {
-    int getMax(int[] freq) {
-        int count = 0;
-        for(int num: freq) {
-            if(num > count) count = num;
-        }
-        return count;
-    }
-    void setZero(int[] freq) {
-        for(int i = 0; i < 26; i++) freq[i] = 0;
-    }
     public int characterReplacement(String s, int k) {
-        char[] sc = s.toCharArray();
         int[] freq = new int[26];
-        int max = 0;
+        int ans = 0;
+        int r = 0;
+        int l = 0;
+        int len = s.length();
         int index = 0;
-        for(int i = 0; i < s.length(); i++) {
-            index = sc[i] - 'A';
+        int maxFreq = 0;
+        while(r < len) {
+            index = s.charAt(r) - 'A';
             freq[index]++;
-            if(freq[index] > max) max = freq[index];
-        }
-        int window = Math.min(max + k, s.length());
-        int min = Integer.MAX_VALUE;
-        while(window > 0) {
-            setZero(freq);
-            for(int i = 0; i < window; i++) {
-                index = sc[i] - 'A';
-                freq[index]++;
-            }
-            max = getMax(freq);
-            if(window - max <= k) return window;
-            if(window - max - k < min) min = window - max - k;
-            for(int i = window; i < s.length(); i++) {
-                index = sc[i] - 'A';
-                freq[index]++;
-                index = sc[i-window] - 'A';
+            if(freq[index] > maxFreq) maxFreq = freq[index];
+            while((r-l+1-maxFreq) > k) {
+                index = s.charAt(l++) - 'A';
                 freq[index]--;
-                max = getMax(freq);
-                if(window - max <= k) return window;
-                if(window - max - k < min) min = window - max - k;
+                for(int i = 0; i < 26; i++) {
+                    if(freq[i] > maxFreq) maxFreq = freq[i];
+                }
             }
-            window = window - min;
+            if((r-l+1) > ans) ans = r-l+1;
+            r++;
         }
-        return 1;
+        return ans;
     }
 }
