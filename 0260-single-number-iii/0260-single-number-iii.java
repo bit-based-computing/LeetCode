@@ -1,18 +1,24 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        Set<Integer> sets = new HashSet<>();
+        int allXor = nums[0];
+        for(int i = 1; i < nums.length; i++) {
+            allXor ^= nums[i];
+        }
+        int a = 0;
+        int b = 0;
+        int rightMostOnBitPosition = 0;
+        while(((allXor >> rightMostOnBitPosition) & 1) != 1){
+            rightMostOnBitPosition++;
+        }
+
         for(int num: nums) {
-            if(sets.contains(num)) {
-                sets.remove(num);
+            if(((num >> rightMostOnBitPosition) & 1) == 1) {
+                a ^= num;
             } else {
-                sets.add(num);
+                b ^= num;
             }
         }
-        int[] ans = new int[2];
-        int i = 0;
-        for(int num: sets){
-            ans[i++] = num;
-        }
-        return ans;
+
+        return new int[] {a,b};
     }
 }
