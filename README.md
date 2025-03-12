@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0643-maximum-average-subarray-i) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0724-find-pivot-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0735-asteroid-collision) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 ## Monotonic Queue
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0567-permutation-in-string) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0334-increasing-triplet-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
