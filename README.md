@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0547-number-of-provinces) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0838-design-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Iterator
 |  |
 | ------- |
