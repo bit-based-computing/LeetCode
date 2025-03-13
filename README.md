@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [1297-maximum-number-of-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0338-counting-bits) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Greedy
 |  |
 | ------- |
