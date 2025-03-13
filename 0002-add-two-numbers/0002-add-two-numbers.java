@@ -9,6 +9,11 @@
  * }
  */
 class Solution {
+    ListNode addNewNode(ListNode temp, int val) {
+        ListNode newNode = new ListNode(val);
+        temp.next = newNode;
+        return temp.next;
+    }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode ans = new ListNode(0);
         ListNode temp = ans;
@@ -17,33 +22,24 @@ class Solution {
         while(l1 != null && l2 != null) {
             sum = carry + l1.val + l2.val;
             carry = sum / 10;
-            ListNode newNode = new ListNode(sum%10);
-            temp.next = newNode;
-            temp = temp.next;
+            temp = addNewNode(temp, sum%10);
             l1 = l1.next;
             l2 = l2.next;
         }
         while(l1 != null) {
             sum = carry + l1.val;
             carry = sum / 10;
-            ListNode newNode = new ListNode(sum%10);
-            temp.next = newNode;
-            temp = temp.next;
+            temp = addNewNode(temp, sum%10);
             l1 = l1.next;
         }
 
         while(l2 != null) {
             sum = carry + l2.val;
             carry = sum / 10;
-            ListNode newNode = new ListNode(sum%10);
-            temp.next = newNode;
-            temp = temp.next;
+            temp = addNewNode(temp, sum%10);
             l2 = l2.next;
         }
-        if(carry > 0) {
-            ListNode newNode = new ListNode(carry);
-            temp.next = newNode;
-        }
+        if(carry > 0) addNewNode(temp, carry);
         return ans.next;
 
     }
