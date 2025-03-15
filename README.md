@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0334-increasing-triplet-subsequence) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0275-h-index-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -381,11 +384,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -568,4 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
