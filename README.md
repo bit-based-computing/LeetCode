@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0143-reorder-list) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0125-valid-palindrome) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0118-pascals-triangle) |
