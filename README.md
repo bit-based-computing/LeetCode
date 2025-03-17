@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0735-asteroid-collision) |
+| [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
