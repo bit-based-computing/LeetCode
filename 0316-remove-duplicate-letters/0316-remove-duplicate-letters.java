@@ -13,7 +13,8 @@ class Solution {
             index = cs[i] - 'a';
             if (!seen[index]) {
                 while (!stack.isEmpty() &&
-                        stack.peek() > cs[i] && lastIndex[stack.peek() - 'a'] > i) {
+                        stack.peek() > cs[i] &&
+                        lastIndex[stack.peek() - 'a'] > i) {
                     seen[stack.peek() - 'a'] = false;
                     stack.pop();
                 }
@@ -22,10 +23,9 @@ class Solution {
             }
         }
         StringBuilder sb = new StringBuilder();
-        for(char c: stack) {
+        for (char c : stack) {
             sb.append(c);
         }
         return sb.toString();
-
     }
 }
