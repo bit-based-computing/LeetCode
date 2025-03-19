@@ -3,7 +3,7 @@ class Solution {
         int l = 0;
         int r = nums.length - 1;
         int mid = 0;
-        int ans = 0;
+        int ans = -1;
         while (l <= r) {
             mid = l + (r - l) / 2;
             if (nums[mid] == target) {
@@ -23,7 +23,7 @@ class Solution {
         int l = 0;
         int r = nums.length - 1;
         int mid = 0;
-        int ans = 0;
+        int ans = -1;
         while (l <= r) {
             mid = l + (r - l) / 2;
             if (nums[mid] == target) {
@@ -38,27 +38,7 @@ class Solution {
         }
         return ans;
     }
-    public boolean isFound(int nums[], int target) {
-        int l = 0;
-        int r = nums.length - 1;
-        int mid = 0;
-        while (l <= r) {
-            mid = l + (r - l) / 2;
-            if (nums[mid] == target)
-                return true;
-            else if (nums[mid] < target) {
-                l = mid + 1;
-            } else {
-                r = mid - 1;
-            }
-        }
-        return false;
-    }
-
     public int[] searchRange(int[] nums, int target) {
-        if (!isFound(nums, target))
-            return new int[] { -1, -1 };
-
         int lowerBound = lowerBound(nums, target);
         int upperBound = upperBound(nums, target);
         return new int[] {lowerBound, upperBound};
