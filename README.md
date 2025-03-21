@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1036-rotting-oranges) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0735-asteroid-collision) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2470-removing-stars-from-a-string) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
