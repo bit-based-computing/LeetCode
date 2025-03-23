@@ -8,11 +8,13 @@ class Solution {
         return count <= h;
     }
     public int minEatingSpeed(int[] piles, int h) {
-        long sum = 0;
-        for(int pile: piles) sum += pile;
+        long max = 0;
+        for(long pile: piles){
+            if(pile > max) max = pile;
+        }
         long ans = 0;
         long l = 1;
-        long r = sum;
+        long r = max;
         while(l <= r) {
             long mid = l + (r - l)/2;
             if(isValid(piles, (int)mid, h)) {
