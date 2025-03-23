@@ -15,9 +15,10 @@ class Solution {
         long ans = 0;
         long l = 1;
         long r = max;
+        long mid = 0;
         while(l <= r) {
-            long mid = l + (r - l)/2;
-            if(isValid(piles, (int)mid, h)) {
+            mid = l + (r - l)/2;
+            if(isValid(piles, mid, h)) {
                 ans = mid;
                 r = mid - 1;
             } else {
