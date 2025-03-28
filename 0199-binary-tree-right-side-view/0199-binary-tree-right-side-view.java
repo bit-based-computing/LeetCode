@@ -21,15 +21,13 @@ class Solution {
         q.add(root);
         while(!q.isEmpty()) {
             int size = q.size();
-            for(int i = 1; i < size; i++) {
-                TreeNode node = q.poll();
+            TreeNode node = null;
+            for(int i = 0; i < size; i++) {
+                node = q.poll();
                 if(node.left != null) q.add(node.left);
                 if(node.right != null) q.add(node.right);
             }
-            TreeNode node = q.poll();
-            if(node.left != null) q.add(node.left);
-            if(node.right != null) q.add(node.right);
-            ans.add(node.val);
+           if(node != null) ans.add(node.val);
         }
         return ans;
     }
