@@ -14,17 +14,18 @@
  * }
  */
 class Solution {
+    public TreeNode buildTree(int l , int r, int[] nums) {
+        if(l > r) return null;
+        int mid = l + (r - l)/2;
+        TreeNode root = new TreeNode(nums[mid]);
+        root.left = buildTree(l, mid-1, nums);
+        root.right = buildTree(mid+1, r, nums);
+        return root;
 
-    public TreeNode sortedArrayToBST(int[] nums) {
-        return generateTree(0, nums.length - 1, nums);
     }
-
-    private TreeNode generateTree(int l , int r, int[] nums){
-       if (l > r) return null;
-       int mid = l + (r-l)/2;
-       TreeNode node = new TreeNode(nums[mid]);
-       node.left = generateTree(l, mid - 1, nums);
-       node.right = generateTree(mid + 1, r, nums);
-       return node;
+    public TreeNode sortedArrayToBST(int[] nums) {
+        int l = 0;
+        int r = nums.length-1;
+        return buildTree(l,r,nums);
     }
 }
