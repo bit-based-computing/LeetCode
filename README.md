@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
