@@ -16,18 +16,18 @@
 class Solution {
     int count = 0;
     int ans = 0;
-    public int kthSmallest(TreeNode root, int k) {
-        kthValue(root, k);
-        return ans;
-    }
-    public void kthValue(TreeNode root, int k) {
-        if(root == null || count > k) return ;
-        kthValue(root.left, k);
+    public void findKth(TreeNode root, int k) {
+        if(root == null) return;
+        findKth(root.left, k);
         count++;
-        if(count == k){
+        if(count == k) {
             ans = root.val;
             return;
-        } 
-        kthValue(root.right, k);
+        }
+        findKth(root.right, k);
+    }
+    public int kthSmallest(TreeNode root, int k) {
+        findKth(root, k);
+        return ans;
     }
 }
