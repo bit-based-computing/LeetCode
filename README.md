@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0662-maximum-width-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0772-construct-quad-tree) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0662-maximum-width-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0783-search-in-a-binary-search-tree) |
