@@ -8,13 +8,30 @@
  * }
  */
 class Solution {
+    TreeNode ancestor;
+    void getAncestor(TreeNode root, TreeNode p, List<TreeNode> list) {
+        if(root == null) return ;
+        if(ancestor != null) return;
+        if(root.val == p.val) ancestor = root;
+        if(ancestor == null)getAncestor(root.left, p, list);
+        if(ancestor == null )getAncestor(root.right, p, list);
+        if(ancestor != null)list.add(root);
+    }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null) return null;
-        if(root.val == p.val || root.val == q.val) return root;
-        TreeNode left = lowestCommonAncestor(root.left, p, q);
-        TreeNode right = lowestCommonAncestor(root.right, p, q);
-        if(left != null && right != null) return root;
-        if(left == null) return right;
-        return left;
+        List<TreeNode> listp = new ArrayList<>();
+        List<TreeNode> listq = new ArrayList<>();
+        getAncestor(root, p, listp);
+        ancestor = null;
+        getAncestor(root, q, listq);
+        Collections.reverse(listp);
+        Collections.reverse(listq);
+        int size = Math.min(listp.size(), listq.size());
+        ancestor = root;
+        for(int i = 0; i < size; i++) {
+            if(listp.get(i) == listq.get(i)) {
+                ancestor = listp.get(i);
+            } else break;
+        }
+        return ancestor;
     }
 }
