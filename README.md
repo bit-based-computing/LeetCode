@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0772-construct-quad-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0907-koko-eating-bananas) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Simulation
 |  |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0535-encode-and-decode-tinyurl) |
+| [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0937-online-stock-span) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
 ## Backtracking
 |  |
 | ------- |
