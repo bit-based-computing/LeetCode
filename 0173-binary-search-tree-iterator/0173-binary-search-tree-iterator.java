@@ -14,31 +14,29 @@
  * }
  */
 class BSTIterator {
-    int current = 0;
-    int i = 0;
+
+    List<Integer> list = new ArrayList<>();
     int size = 0;
-    Map<Integer, Integer> map;
-    public void inorder(TreeNode root) {
+    int count = 0;
+
+    private void inorder(TreeNode root) {
         if(root == null) return;
         inorder(root.left);
-        map.put(i++, root.val);
+        list.add(root.val);
         inorder(root.right);
     }
+
     public BSTIterator(TreeNode root) {
-        map = new HashMap<>();
         inorder(root);
-        size = i;
+        size = list.size();
     }
     
     public int next() {
-        int x = map.get(current);
-        current++;
-        return x;
+        return list.get(count++);
     }
     
     public boolean hasNext() {
-        if(current < size) return true;
-        return false;
+        return count < size;
     }
 }
 
