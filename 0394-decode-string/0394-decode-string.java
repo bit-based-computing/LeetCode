@@ -68,15 +68,7 @@ class Solution {
         String ns = "";
         while (!stack.isEmpty()) {
             String spop = stack.pop();
-            if (isDigit(spop.charAt(0))) {
-                int x = Integer.parseInt(spop);
-                String cs = ns;
-                for (int k = 1; k < x; k++) {
-                    ns = ns + cs;
-                }
-            } else {
-                ns = spop + ns;
-            }
+            ns = spop + ns;
         }
         return ns;
     }
