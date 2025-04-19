@@ -15,21 +15,19 @@
  */
 class BSTIterator {
     int current = 0;
-    List<Integer> list;
+    int i = 0;
+    int size = 0;
     Map<Integer, Integer> map;
     public void inorder(TreeNode root) {
         if(root == null) return;
         inorder(root.left);
-        list.add(root.val);
+        map.put(i++, root.val);
         inorder(root.right);
     }
     public BSTIterator(TreeNode root) {
-        list = new ArrayList<>();
         map = new HashMap<>();
         inorder(root);
-        for(int i = 0; i < list.size(); i++) {
-            map.put(i, list.get(i));
-        }
+        size = i;
     }
     
     public int next() {
@@ -39,7 +37,7 @@ class BSTIterator {
     }
     
     public boolean hasNext() {
-        if(current < list.size()) return true;
+        if(current < size) return true;
         return false;
     }
 }
