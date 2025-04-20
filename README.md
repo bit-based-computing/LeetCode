@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0937-online-stock-span) |
@@ -779,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0969-number-of-recent-calls) |
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
