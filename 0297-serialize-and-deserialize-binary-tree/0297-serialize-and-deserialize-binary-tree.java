@@ -9,54 +9,29 @@
  */
 public class Codec {
 
-
-    // It's also solution but interviewer will not want this
     // Encodes a tree to a single string.
-    static TreeNode root;
+    int index = 0;
     public String serialize(TreeNode root) {
-       this.root = root;
-       return "";
+        if(root == null) return "#";
+        String serialized = root.val + "," + serialize(root.left) + "," + serialize(root.right);
+        return serialized;
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-      return root;
+         String nodes[] = data.split(",");
+         index = -1;
+         return buildTree(nodes);
     }
-   
-    
-    // Actual solution
 
-    // int index = -1;
-    // int size = 0;
-    // // Encodes a tree to a single string.
-    // public String serialize(TreeNode root) {
-    //     if(root == null) return "X";
-    //     String left = serialize(root.left);
-    //     String right = serialize(root.right);
-    //     StringBuilder s = new StringBuilder();
-    //     s.append(root.val);
-    //     s.append(",");
-    //     s.append(left);
-    //     s.append(",");
-    //     s.append(right);
-    //     return s.toString();
-    // }
-
-    // // Decodes your encoded data to tree.
-    // public TreeNode deserialize(String data) {
-    //     String[] nodes = data.split(",");
-    //     size = nodes.length - 1;
-    //     return buildTree(nodes);
-    // }
-    // private TreeNode buildTree(String[] nodes) {
-    //     index++;
-    //     if(index > size) return null;
-    //     if(nodes[index].equals("X")) return null;
-    //     TreeNode root = new TreeNode(Integer.parseInt(nodes[index]));
-    //     root.left = buildTree(nodes);
-    //     root.right = buildTree(nodes);
-    //     return root;
-    // }
+    public TreeNode buildTree(String[] nodes) {
+        index++;
+        if(nodes[index].equals("#")) return null;
+        TreeNode node = new TreeNode(Integer.parseInt(nodes[index]));
+        node.left = buildTree(nodes);
+        node.right = buildTree(nodes);
+        return node;
+    }
 }
 
 // Your Codec object will be instantiated and called as such:
