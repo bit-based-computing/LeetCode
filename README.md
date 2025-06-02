@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0075-sort-colors) |
