@@ -1,30 +1,25 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         List<int[]> list = new ArrayList<>();
-        for(int[] a: intervals) {
-            list.add(a);
-        }
-        list.add(newInterval);
-        list.sort((int[] a , int[] b)-> {
-            if(a[0] == b[0]) return a[1] - b[1];
-            return a[0] - b[0];
-        });
+        int len = intervals.length;
+        int i = 0;
+        while (i < len) {
 
-        List<int[]> merge = new ArrayList<>();
-
-        int[] current = list.get(0);
-        for(int[] a: list) {
-            if(a[0] <= current[1]) {
-                current[1] = Math.max(a[1], current[1]);
+            if (intervals[i][1] < newInterval[0]) {
+                list.add(intervals[i]);
+            } else if (intervals[i][0] > newInterval[1]) {
+                list.add(newInterval);
+                newInterval = intervals[i];
             } else {
-                merge.add(current);
-                current = a;
+                newInterval[0] = Math.min(intervals[i][0], newInterval[0]);
+                newInterval[1] = Math.max(intervals[i][1], newInterval[1]);
             }
+            i++;
         }
 
-        merge.add(current);
+        list.add(newInterval);
 
-        return merge.toArray(new int[merge.size()][2]);
+        return list.toArray(new int[list.size()][2]);
 
     }
 }
