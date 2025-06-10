@@ -6,7 +6,6 @@ class Solution {
             if (!isOperator(s)) {
                 number.add(Integer.parseInt(s));
             } else {
-                System.out.println(number.size());
                 int x = number.pop();
                 int y = number.pop();
                 if (s.equals("+")) {
