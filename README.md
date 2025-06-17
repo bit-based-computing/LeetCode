@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0238-product-of-array-except-self) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 | [0772-construct-quad-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0772-construct-quad-tree) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0316-remove-duplicate-letters) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 ## Hash Function
@@ -857,5 +861,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
