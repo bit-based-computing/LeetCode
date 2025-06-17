@@ -1,48 +1,67 @@
-class Trie {
+public class Node {
+    boolean isWord;
+    Node[] charaters = new Node[26];
+    public Node() {
 
-    class Node{
-        Map<Character, Node> map = new HashMap<>();
-        boolean isEnd = false;
     }
+}
+
+class Trie {
     Node root;
     public Trie() {
         root = new Node();
     }
     
     public void insert(String word) {
-        Node curr = root;
-        for(int i = 0; i < word.length(); i++) {
-            Character c = word.charAt(i);
-            if(curr.map.get(c) == null) {
-                curr.map.put(c, new Node());
+        int len = word.length()-1;
+        Node temp = root;
+        for(int i = 0; i <= len; i++) {
+            int index = word.charAt(i) - 'a';
+            // System.out.println(word.charAt(i) + " " + index);
+            if(temp.charaters[index] != null) {
+                temp = temp.charaters[index];
+                if(i == len) temp.isWord = true;
+            } else {
+                Node node = new Node();
+                temp.charaters[index] = node;
+                temp = node;
+                if(i == len) {
+                    node.isWord = true;
+                }
             }
-            curr = curr.map.get(c);
         }
-        curr.isEnd = true;
+        
     }
     
     public boolean search(String word) {
-        Node curr = root;
-        for(int i = 0; i < word.length(); i++) {
-            Character c = word.charAt(i);
-            if(curr.map.get(c) == null) {
+        int len = word.length()-1;
+        Node temp = root;
+        for(int i = 0; i <= len; i++) {
+            int index = word.charAt(i) - 'a';
+            // System.out.println(word.charAt(i) + " s " + index);
+            if(temp.charaters[index] != null) {
+                temp = temp.charaters[index];
+            } else {
                 return false;
-             }
-            curr = curr.map.get(c);
+            }
+            if(i == len && temp.isWord == true) {
+                return true;
+            }
         }
-        return curr.isEnd;
+        return false;
     }
     
     public boolean startsWith(String prefix) {
-        Node curr = root;
-        for(int i = 0; i < prefix.length(); i++) {
-            Character c = prefix.charAt(i);
-            if(curr.map.get(c) == null) {
+        int len = prefix.length()-1;
+        Node temp = root;
+        for(int i = 0; i <= len; i++) {
+            int index = prefix.charAt(i) - 'a';
+            if(temp.charaters[index] != null) {
+                temp = temp.charaters[index];
+            } else {
                 return false;
-             }
-            curr = curr.map.get(c);
+            }
         }
-
         return true;
     }
 }
