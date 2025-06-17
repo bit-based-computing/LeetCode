@@ -10,20 +10,37 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        Queue<ListNode> queue = new PriorityQueue<>((ListNode a, ListNode b) -> a.val - b.val);
-        for(ListNode list: lists) {
-            if(list != null) queue.offer(list);
-        }
+        if(lists == null || lists.length == 0) return null;
+        return mergeList(lists, 0, lists.length - 1);
+    }
 
+    public ListNode mergeList(ListNode[] lists, int start, int end) {
+        if(start == end) return lists[start];
+
+        int mid = start + (end - start) / 2;
+        ListNode left = mergeList(lists, start, mid);
+        ListNode right = mergeList(lists, mid + 1, end);
+
+        return mergeTwoList(left, right);
+    }
+
+    public ListNode mergeTwoList(ListNode left, ListNode right) {
         ListNode dummy = new ListNode();
         ListNode current = dummy;
-        while(!queue.isEmpty()) {
-            ListNode node = queue.poll();
-            current.next = node;
-            current = node;
-            if(node.next != null) {
-                queue.offer(node.next);
+        while(left != null && right != null) {
+            if(left.val <= right.val) {
+                current.next = left;
+                left = left.next;
+            } else {
+                current.next = right;
+                right = right.next;
             }
+            current = current.next;
+        }
+        if(left != null) {
+            current.next = left;
+        } else if(right != null) {
+            current.next = right;
         }
         return dummy.next;
     }
