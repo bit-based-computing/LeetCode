@@ -13,26 +13,25 @@ class Solution {
 
         int[] ans = new int[numCourses];
         int k = 0;
-        boolean found = true;
-        while(found) {
-            found = false;
-            for (int j = 0; j < numCourses; j++) {
-                if (indegree[j] == 0) {
-                    ans[k++] = j;
-                    indegree[j] = -1;
-                    if (map.get(j) != null) {
-                        for (Integer course : map.get(j)) {
-                            indegree[course]--;
-                        }
-                    }
-                    found = true;
+
+        Queue<Integer> queue = new LinkedList<>();
+        for(int i =0; i < numCourses; i++) {
+            if(indegree[i] == 0) queue.add(i);
+        }
+
+        while(!queue.isEmpty()) {
+            int course = queue.poll();
+            ans[k++] = course;
+            if(map.get(course) != null) {
+                for(int x: map.get(course)) {
+                    indegree[x]--;
+                    if(indegree[x] == 0) queue.add(x);
                 }
             }
         }
         
 
-        if (k >= numCourses)
-            return ans;
+        if (k >= numCourses) return ans;
         return new int[0];
     }
 }
