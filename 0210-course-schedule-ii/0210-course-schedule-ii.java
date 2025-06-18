@@ -1,38 +1,31 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int[] indegree = new int[numCourses];
-        List<Integer>[] edges =  new List[numCourses];
-        Queue<Integer> q = new LinkedList<>();
-        int[] fans = new int[numCourses];
-        int a,b;
-        for(int i = 0; i < prerequisites.length; i++){
-            a = prerequisites[i][0];
-            b = prerequisites[i][1];
-            if(edges[b] == null){
-                edges[b] = new ArrayList<Integer>();
-            }
-            indegree[a]++;
-            edges[b].add(a);
+        Map<Integer, List<Integer>> map = new HashMap<>();
+        for (int[] x : prerequisites) {
+            indegree[x[0]]++;
+            if (map.get(x[1]) == null)
+                map.put(x[1], new ArrayList<Integer>());
+            map.get(x[1]).add(x[0]);
+
         }
-        for(int i = 0; i < numCourses; i++){
-            if(indegree[i] == 0){
-                q.add(i);
-            }
-        }
-        int count = 0;
-        while(!q.isEmpty()){
-            int node = q.poll();
-            fans[count] = node;
-            count++;
-            List<Integer> childNodes = edges[node];
-            for(int i = 0; childNodes != null && i < childNodes.size(); i++) {
-                indegree[childNodes.get(i)]--;
-                if(indegree[childNodes.get(i)] == 0){
-                    q.add(childNodes.get(i));
+        int[] ans = new int[numCourses];
+        int k = 0;
+        for (int i = 0; i < numCourses; i++) {
+            for (int j = 0; j < numCourses; j++) {
+                if (indegree[j] == 0) {
+                    ans[k++] = j;
+                    indegree[j] = -1;
+                    if (map.get(j) != null) {
+                        for (Integer course : map.get(j)) {
+                            indegree[course]--;
+                        }
+                    }
                 }
             }
         }
-        if(count == numCourses) return fans;
+        if (k >= numCourses)
+            return ans;
         return new int[0];
     }
 }
