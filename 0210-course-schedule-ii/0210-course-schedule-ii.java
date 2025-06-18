@@ -2,6 +2,7 @@ class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int[] indegree = new int[numCourses];
         Map<Integer, List<Integer>> map = new HashMap<>();
+
         for (int[] x : prerequisites) {
             indegree[x[0]]++;
             if (map.get(x[1]) == null)
@@ -9,9 +10,12 @@ class Solution {
             map.get(x[1]).add(x[0]);
 
         }
+
         int[] ans = new int[numCourses];
         int k = 0;
-        for (int i = 0; i < numCourses; i++) {
+        boolean found = true;
+        while(found) {
+            found = false;
             for (int j = 0; j < numCourses; j++) {
                 if (indegree[j] == 0) {
                     ans[k++] = j;
@@ -21,9 +25,12 @@ class Solution {
                             indegree[course]--;
                         }
                     }
+                    found = true;
                 }
             }
         }
+        
+
         if (k >= numCourses)
             return ans;
         return new int[0];
