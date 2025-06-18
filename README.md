@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0238-product-of-array-except-self) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0338-counting-bits) |
