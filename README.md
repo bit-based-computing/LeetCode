@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
+| [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [1833-find-the-highest-altitude](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
+| [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 ## Memoization
 |  |
 | ------- |
@@ -876,4 +879,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0257-binary-tree-paths) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
