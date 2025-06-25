@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0322-coin-change) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0338-counting-bits) |
