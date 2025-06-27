@@ -1,18 +1,22 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         Trie root = new Trie();
-        for(String word: wordDict) {
+        for (String word : wordDict) {
             root.build(root, word);
         }
+
         Set<Integer> finds = new HashSet<>();
+        Set<Integer> visited = new HashSet<>(); // Track visited indices
         finds.add(0);
-        int index = 0;
-        while(finds.size() > 0) {
+
+        while (!finds.isEmpty()) {
             Set<Integer> wList = new HashSet<>();
-            for(Integer startIndex: finds) {
-                if(startIndex >= s.length()) return true;
-                List<Integer> list = new ArrayList<>();
-                list = root.search(root, startIndex, s);
+            for (Integer startIndex : finds) {
+                if (startIndex == s.length()) return true;
+                if (visited.contains(startIndex)) continue;
+                visited.add(startIndex); // Mark as visited
+
+                List<Integer> list = root.search(root, startIndex, s);
                 wList.addAll(list);
             }
             finds = wList;
@@ -21,42 +25,32 @@ class Solution {
     }
 }
 
-class Trie{
+class Trie {
     Trie[] nodes = new Trie[26];
     boolean isWord = false;
-    Trie() {
-    }
+
+    Trie() {}
 
     void build(Trie trie, String s) {
-        int i = 0;
-        int len = s.length();
-        while(i < len) {
+        for (int i = 0; i < s.length(); i++) {
             int index = s.charAt(i) - 'a';
-            if(trie.nodes[index] != null) {
-                trie = trie.nodes[index];
-            } else {
+            if (trie.nodes[index] == null) {
                 trie.nodes[index] = new Trie();
-                trie = trie.nodes[index];
             }
-            i++;
+            trie = trie.nodes[index];
         }
         trie.isWord = true;
     }
 
-
     List<Integer> search(Trie trie, int startIndex, String s) {
         List<Integer> finds = new ArrayList<>();
         int i = startIndex;
-        int len = s.length();
-        while(i < len) {
+        while (i < s.length()) {
             int index = s.charAt(i) - 'a';
-            if(trie.nodes[index] != null) {
-                trie = trie.nodes[index];
-                if(trie.isWord) {
-                    finds.add(i + 1);
-                }
-            } else {
-                break;
+            if (trie.nodes[index] == null) break;
+            trie = trie.nodes[index];
+            if (trie.isWord) {
+                finds.add(i + 1);
             }
             i++;
         }
