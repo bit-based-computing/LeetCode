@@ -1,61 +1,51 @@
 class WordDictionary {
     Trie root;
+
     public WordDictionary() {
         root = new Trie();
     }
-    
+
     public void addWord(String word) {
-        Trie temp = root;
-        int len = word.length();
-        int i = 0;
-        while(i < len) {
-            int index  = word.charAt(i) - 'a';
-            if(temp.nodes[index] == null) {
-                temp.nodes[index] = new Trie();
+        Trie curr = root;
+        for (char ch : word.toCharArray()) {
+            int index = ch - 'a';
+            if (curr.nodes[index] == null) {
+                curr.nodes[index] = new Trie();
             }
-            temp = temp.nodes[index];
-            i++;
+            curr = curr.nodes[index];
         }
-        temp.isWord = true;
+        curr.isWord = true;
     }
-    
+
     public boolean search(String word) {
         return find(0, root, word);
     }
-    public boolean find(int i, Trie temp, String word) {
-        if(i == word.length()){
-            // if(word.charAt(i-1) == '.') return true;
-            return temp.isWord;
-        } 
-        boolean ans = false;
-        if(word.charAt(i) == '.') {
-            for(Trie node: temp.nodes) {
-                if(node != null) {
-                    ans  = ans || find(i+1, node, word);
+
+    private boolean find(int i, Trie node, String word) {
+        if (i == word.length()) return node.isWord;
+
+        char ch = word.charAt(i);
+        if (ch == '.') {
+            for (Trie child : node.nodes) {
+                if (child != null && find(i + 1, child, word)) {
+                    return true;
                 }
-                if(ans) return ans;
             }
+            return false;
         } else {
-            int index  = word.charAt(i) - 'a';
-            if(temp.nodes[index] == null) return false;
-            ans = find(i+1, temp.nodes[index], word);
+            int index = ch - 'a';
+            if (node.nodes[index] == null) return false;
+            return find(i + 1, node.nodes[index], word);
         }
-        return ans;
     }
 }
 
-class Trie{
+class Trie {
     Trie[] nodes;
     boolean isWord;
+
     Trie() {
         nodes = new Trie[26];
         isWord = false;
     }
 }
-
-/**
- * Your WordDictionary object will be instantiated and called as such:
- * WordDictionary obj = new WordDictionary();
- * obj.addWord(word);
- * boolean param_2 = obj.search(word);
- */
