@@ -1,5 +1,6 @@
 class Solution {
     public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+        Arrays.sort(products);
         TrieNode root = new TrieNode();
         for(String product: products) {
             int i = 0;
@@ -12,9 +13,8 @@ class Solution {
                     curNode.childrens[index] = new TrieNode();
                 }
                 curNode = curNode.childrens[index];
-                curNode.list.offer(product);
-                if(curNode.list.size() > 3) {
-                    curNode.list.poll();
+                if(curNode.list.size() < 3) {
+                    curNode.list.add(product);
                 }
                 i++;
             }
@@ -36,20 +36,16 @@ class Solution {
                 curNode = curNode.childrens[index];
                 start++;
             }
-            while(!curNode.list.isEmpty()) {
-                ans.add(curNode.list.poll());
-            }
-            Collections.sort(ans);
-            return ans;
+            return curNode.list;
     }
 }
 
 class TrieNode{
     TrieNode[] childrens;
-    PriorityQueue<String> list;
+    List<String> list;
     
     TrieNode() {
         childrens = new TrieNode[26];
-        list = new PriorityQueue<>(Comparator.reverseOrder());
+        list = new ArrayList<>();
     }
 }
