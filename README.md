@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
+| [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Queue
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1185-find-in-mountain-array) |
+| [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 ## Stack
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1297-maximum-number-of-balloons) |
+| [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2470-removing-stars-from-a-string) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1019-squares-of-a-sorted-array) |
+| [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 ## Counting Sort
 |  |
 | ------- |
@@ -890,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 ## Hash Function
 |  |
 | ------- |
