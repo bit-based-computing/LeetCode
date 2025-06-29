@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
+| [1762-furthest-building-you-can-reach](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1762-furthest-building-you-can-reach) |
 | [1833-find-the-highest-altitude](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1762-furthest-building-you-can-reach](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1762-furthest-building-you-can-reach) |
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Queue
 |  |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
+| [1762-furthest-building-you-can-reach](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
 |  |
 | ------- |
