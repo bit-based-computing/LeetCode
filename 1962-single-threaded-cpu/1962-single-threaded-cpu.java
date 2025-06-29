@@ -24,7 +24,7 @@ class Solution {
         int j = 0;
 
         while(j < list.size()) {
-            time += list.get(j);
+            time = list.get(j);
             pq.addAll(map.get(list.get(j)));
             j++;
             while(!pq.isEmpty()) {
