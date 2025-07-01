@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0189-rotate-array) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
