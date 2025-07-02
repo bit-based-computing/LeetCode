@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0772-construct-quad-tree) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
+| [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0542-01-matrix) |
 | [0772-construct-quad-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
+| [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0907-koko-eating-bananas) |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -875,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -913,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 ## Memoization
