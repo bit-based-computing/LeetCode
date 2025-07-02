@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0435-non-overlapping-intervals) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0523-continuous-subarray-sum) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1005,4 +1009,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
