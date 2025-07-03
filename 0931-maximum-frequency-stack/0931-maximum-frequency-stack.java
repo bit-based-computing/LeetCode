@@ -1,31 +1,32 @@
 class FreqStack {
-    Map<Integer, Integer> map;
-    int i = 0;
-    PriorityQueue<int[]> pq;
+    private Map<Integer, Integer> valToFreq;
+    private Map<Integer, Stack<Integer>> freqToVals;
+    private int maxFreq;
 
     public FreqStack() {
-        map = new HashMap<>();
-        pq = new PriorityQueue<>((a,b)-> {
-        if(a[2] == b[2]) return Integer.compare(b[0], a[0]);
-        return Integer.compare(b[2], a[2]);
-    });
+        valToFreq = new HashMap<>();
+        freqToVals = new HashMap<>();
+        maxFreq = 0;
     }
-    
+
     public void push(int val) {
-        map.put(val, map.getOrDefault(val, 0) + 1);
-        pq.offer(new int[]{i++, val, map.get(val)});
+        int freq = valToFreq.getOrDefault(val, 0) + 1;
+        valToFreq.put(val, freq);
+
+        freqToVals.computeIfAbsent(freq, z -> new Stack<>()).push(val);
+
+        maxFreq = Math.max(maxFreq, freq);
     }
-    
+
     public int pop() {
-        int[] x = pq.poll();
-        map.put(x[1], map.get(x[1]) - 1);
-        return x[1];
+        Stack<Integer> stack = freqToVals.get(maxFreq);
+        int val = stack.pop();
+
+        valToFreq.put(val, valToFreq.get(val) - 1);
+        if (stack.isEmpty()) {
+            maxFreq--;
+        }
+
+        return val;
     }
 }
-
-/**
- * Your FreqStack object will be instantiated and called as such:
- * FreqStack obj = new FreqStack();
- * obj.push(val);
- * int param_2 = obj.pop();
- */
