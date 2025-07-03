@@ -24,8 +24,14 @@ class Solution {
                 count--;
                 lastET[index] = curTime;
                 curTime++;
-            } else {
-                curTime++;
+            } else if(count > 0){
+                int minRT = Integer.MAX_VALUE;
+                for(int i = 0; i < 26; i++) {
+                    if(freq[i] > 0 ) {
+                        minRT = Math.min(minRT, lastET[i] + n + 1 - curTime);
+                    }
+                }
+                curTime += minRT;
             }
         }
         return curTime - 1;
