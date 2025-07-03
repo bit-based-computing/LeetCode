@@ -1,33 +1,25 @@
 class FreqStack {
     Map<Integer, Integer> map;
-    Stack<Integer> stack;
-    Stack<Integer> backup;
-    PriorityQueue<Integer> pq = new PriorityQueue<>((a,b)-> Integer.compare(b,a));
+    int i = 0;
+    PriorityQueue<int[]> pq;
 
     public FreqStack() {
         map = new HashMap<>();
-        stack = new Stack<>();
-        backup = new Stack<>();
-        pq = new PriorityQueue<>((a,b)-> Integer.compare(b,a));
+        pq = new PriorityQueue<>((a,b)-> {
+        if(a[2] == b[2]) return Integer.compare(b[0], a[0]);
+        return Integer.compare(b[2], a[2]);
+    });
     }
     
     public void push(int val) {
-        stack.push(val);
         map.put(val, map.getOrDefault(val, 0) + 1);
-        pq.offer(map.get(val));
+        pq.offer(new int[]{i++, val, map.get(val)});
     }
     
     public int pop() {
-        int x = pq.poll();
-        while(!stack.isEmpty() && map.get(stack.peek()) < x) {
-            backup.push(stack.pop());
-        }
-        int ans = stack.pop();
-        while(!backup.isEmpty()) {
-            stack.push(backup.pop());
-        }
-        map.put(ans, map.get(ans)- 1);
-        return ans;
+        int[] x = pq.poll();
+        map.put(x[1], map.get(x[1]) - 1);
+        return x[1];
     }
 }
 
