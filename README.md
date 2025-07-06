@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0102-binary-tree-level-order-traversal) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0102-binary-tree-level-order-traversal) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
@@ -1025,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0257-binary-tree-paths) |
