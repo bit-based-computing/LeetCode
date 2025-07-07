@@ -1,27 +1,37 @@
 class Solution {
+    int ans = Integer.MAX_VALUE;
+    Map<String, Integer> memo = new HashMap<>();
+
     public int distributeCookies(int[] cookies, int k) {
-        int[] childBins = new int[k];
-        // Initial call with a very large unfairness (Infinity) as the starting point
-        return backtrack(cookies, childBins, 0, Integer.MAX_VALUE);
+        int[] children = new int[k];
+        backtrack(cookies, 0, children, k, 0);
+        return ans;
     }
 
-    private int backtrack(int[] cookies, int[] childBins, int index, int minUnfairness) {
+    private void backtrack(int[] cookies, int index, int[] children, int k, int used) {
         if (index == cookies.length) {
-            int currentMax = 0;
-            for (int cookieCount : childBins) {
-                currentMax = Math.max(currentMax, cookieCount);
-            }
-            return Math.min(minUnfairness, currentMax);
+            int unfairness = 0;
+            for (int c : children) unfairness = Math.max(unfairness, c);
+            ans = Math.min(ans, unfairness);
+            return;
         }
 
-        for (int i = 0; i < childBins.length; i++) {
-            childBins[i] += cookies[index];
+        String key = index + "#" + Arrays.toString(children);
+        if (memo.containsKey(key) && memo.get(key) <= ans) return;
+        memo.put(key, ans);
 
-            if (childBins[i]  < minUnfairness) {
-                minUnfairness = backtrack(cookies, childBins, index + 1, minUnfairness);
+        for (int i = 0; i < k; i++) {
+            // Prune: don't give to same empty child again
+            if (i > 0 && children[i] == children[i - 1]) continue;
+
+            children[i] += cookies[index];
+            if (children[i] < ans) {
+                backtrack(cookies, index + 1, children, k, used + (children[i] == cookies[index] ? 1 : 0));
             }
-            childBins[i] -= cookies[index];
+            children[i] -= cookies[index];
+
+            // Optimization: if this child has no cookies, break to avoid duplicates
+            if (children[i] == 0) break;
         }
-        return minUnfairness;
     }
 }
