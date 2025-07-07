@@ -1,28 +1,27 @@
 class Solution {
-    int min;
     public int distributeCookies(int[] cookies, int k) {
-        int[] child = new int[k];
-        min = Integer.MAX_VALUE;
-        dfs(0, cookies, child);
-        return min;
+        int[] childBins = new int[k];
+        // Initial call with a very large unfairness (Infinity) as the starting point
+        return backtrack(cookies, childBins, 0, Integer.MAX_VALUE);
     }
 
-    void dfs(int index, int[] cookies, int[] child) {
-        
-        if(index >= cookies.length) {
-            int max = 0;
-            for(int x: child) {
-                max = Math.max(max, x);
+    private int backtrack(int[] cookies, int[] childBins, int index, int minUnfairness) {
+        if (index == cookies.length) {
+            int currentMax = 0;
+            for (int cookieCount : childBins) {
+                currentMax = Math.max(currentMax, cookieCount);
             }
-            min = Math.min(min, max);
-            return;
+            return Math.min(minUnfairness, currentMax);
         }
-        for(int i = 0; i < child.length; i++) {
-            child[i] += cookies[index];
-            if(child[i] < min) {
-                dfs(index + 1, cookies, child);
+
+        for (int i = 0; i < childBins.length; i++) {
+            childBins[i] += cookies[index];
+
+            if (childBins[i]  < minUnfairness) {
+                minUnfairness = backtrack(cookies, childBins, index + 1, minUnfairness);
             }
-            child[i] -= cookies[index];
+            childBins[i] -= cookies[index];
         }
+        return minUnfairness;
     }
 }
