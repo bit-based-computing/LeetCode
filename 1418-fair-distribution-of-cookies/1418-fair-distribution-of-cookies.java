@@ -19,7 +19,9 @@ class Solution {
         }
         for(int i = 0; i < child.length; i++) {
             child[i] += cookies[index];
-            dfs(index + 1, cookies, child);
+            if(child[i] < min) {
+                dfs(index + 1, cookies, child);
+            }
             child[i] -= cookies[index];
         }
     }
