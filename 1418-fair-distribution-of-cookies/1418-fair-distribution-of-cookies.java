@@ -17,7 +17,7 @@ class Solution {
         }
 
         String key = index + "#" + Arrays.toString(children);
-        if (memo.containsKey(key) && memo.get(key) <= ans) return;
+        if (memo.containsKey(key)) return;
         memo.put(key, ans);
 
         for (int i = 0; i < k; i++) {
