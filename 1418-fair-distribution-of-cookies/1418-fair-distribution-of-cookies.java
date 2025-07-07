@@ -4,11 +4,11 @@ class Solution {
 
     public int distributeCookies(int[] cookies, int k) {
         int[] children = new int[k];
-        backtrack(cookies, 0, children, k, 0);
+        backtrack(cookies, 0, children, k);
         return ans;
     }
 
-    private void backtrack(int[] cookies, int index, int[] children, int k, int used) {
+    private void backtrack(int[] cookies, int index, int[] children, int k) {
         if (index == cookies.length) {
             int unfairness = 0;
             for (int c : children) unfairness = Math.max(unfairness, c);
@@ -26,7 +26,7 @@ class Solution {
 
             children[i] += cookies[index];
             if (children[i] < ans) {
-                backtrack(cookies, index + 1, children, k, used + (children[i] == cookies[index] ? 1 : 0));
+                backtrack(cookies, index + 1, children, k);
             }
             children[i] -= cookies[index];
 
