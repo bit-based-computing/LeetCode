@@ -18,6 +18,7 @@ class Solution {
 
         String key = index + "#" + Arrays.toString(children);
         if (memo.containsKey(key)) return;
+        memo.put(key, ans);
 
         for (int i = 0; i < k; i++) {
 
@@ -30,6 +31,6 @@ class Solution {
             children[i] -= cookies[index];
             if (children[i] == 0) break;
         }
-         memo.put(key, ans);
+         
     }
 }
