@@ -18,10 +18,9 @@ class Solution {
 
         String key = index + "#" + Arrays.toString(children);
         if (memo.containsKey(key)) return;
-        memo.put(key, ans);
 
         for (int i = 0; i < k; i++) {
-            // Prune: don't give to same empty child again
+
             if (i > 0 && children[i] == children[i - 1]) continue;
 
             children[i] += cookies[index];
@@ -29,9 +28,8 @@ class Solution {
                 backtrack(cookies, index + 1, children, k);
             }
             children[i] -= cookies[index];
-
-            // Optimization: if this child has no cookies, break to avoid duplicates
             if (children[i] == 0) break;
         }
+         memo.put(key, ans);
     }
 }
