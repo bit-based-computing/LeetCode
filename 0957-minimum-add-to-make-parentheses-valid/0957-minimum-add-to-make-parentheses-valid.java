@@ -1,18 +1,21 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        
-        Stack<Character> stack = new Stack<>();
+        int open = 0, close = 0;
 
-        for(int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if(stack.isEmpty()) {
-                stack.push(c);
-            } else if(c == ')' && stack.peek() == '(') {
-                stack.pop();
-            } else {
-                stack.push(c);
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                open++;
+            } 
+            else { 
+                if (open > 0) {
+                    open--; // Match the current ')' with a previous '('
+                } else {
+                    close++; // No matching '(' for this ')'
+                }
             }
         }
-        return stack.size();
+
+        // Total unmatched parentheses is sum of unmatched open and close
+        return open + close;
     }
 }
