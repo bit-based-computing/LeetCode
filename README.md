@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1297-maximum-number-of-balloons) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1762-furthest-building-you-can-reach](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
