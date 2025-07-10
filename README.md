@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0931-maximum-frequency-stack) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1207-delete-nodes-and-return-forest) |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1492-time-needed-to-inform-all-employees) |
