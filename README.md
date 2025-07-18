@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
+| [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
+| [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1250-longest-common-subsequence) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0523-continuous-subarray-sum) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
+| [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
@@ -976,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0374-guess-number-higher-or-lower) |
+| [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 | [1185-find-in-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1185-find-in-mountain-array) |
 ## Graph
 |  |
@@ -1103,4 +1107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1418-fair-distribution-of-cookies](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1418-fair-distribution-of-cookies) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
