@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1962-single-threaded-cpu) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 ## Binary Search
 |  |
 | ------- |
