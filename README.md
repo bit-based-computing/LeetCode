@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0654-maximum-binary-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0957-minimum-add-to-make-parentheses-valid) |
