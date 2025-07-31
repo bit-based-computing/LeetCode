@@ -1,38 +1,38 @@
 class TimeMap {
-        Node n;
+    Map<String, List<Pair>> map;
 
-        public TimeMap() {
-            n = new Node();
-        }
+    public TimeMap() {
+        map = new HashMap<>();
+    }
 
-        public void set(String key, String value, int timestamp) {
-            n = new Node(key, value, timestamp, n);
-        }
+    public void set(String key, String value, int timestamp) {
+        map.computeIfAbsent(key, k -> new ArrayList<>()).add(new Pair(timestamp, value));
+    }
 
-        public String get(String key, int timestamp) {
-            return search(key, timestamp, n);
-        }
+    public String get(String key, int timestamp) {
+        if (!map.containsKey(key)) return "";
+        List<Pair> list = map.get(key);
 
-        private String search(String key, int timestamp, Node n) {
-            if (n == null) return "";
-            if (key.equals(n.key) && timestamp >= n.timestamp) return n.value;
-            return search(key, timestamp, n.prev);
-        }
-
-        static class Node {
-            String key;
-            String value;
-            int timestamp;
-            Node prev;
-
-            public Node() {
-            }
-
-            public Node(String key, String value, int timestamp, Node prev) {
-                this.key = key;
-                this.value = value;
-                this.timestamp = timestamp;
-                this.prev = prev;
+        // Binary search from right (latest timestamp)
+        int l = 0, r = list.size() - 1;
+        while (l <= r) {
+            int m = (l + r) / 2;
+            if (list.get(m).timestamp <= timestamp) {
+                l = m + 1;
+            } else {
+                r = m - 1;
             }
         }
+
+        return r >= 0 ? list.get(r).value : "";
+    }
+
+    static class Pair {
+        int timestamp;
+        String value;
+        Pair(int t, String v) {
+            this.timestamp = t;
+            this.value = v;
+        }
+    }
 }
