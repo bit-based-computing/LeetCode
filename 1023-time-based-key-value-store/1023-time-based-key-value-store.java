@@ -1,30 +1,38 @@
 class TimeMap {
+        Node n;
 
-    Map<String, TreeMap<Integer, String>> map;
-
-    public TimeMap() {
-        map = new HashMap<>();
-    }
-    
-    public void set(String key, String value, int timestamp) {
-        if(map.get(key) == null) {
-            map.put(key, new TreeMap<Integer, String>());
+        public TimeMap() {
+            n = new Node();
         }
-        map.get(key).put(timestamp, value);
-    }
-    
-    public String get(String key, int timestamp) {
-        if(map.get(key) == null) return "";
-        TreeMap<Integer, String> sortedMap  = map.get(key);
-        Integer timeKey = sortedMap.floorKey(timestamp);
-        if(timeKey != null) return sortedMap.get(timeKey);
-        return "";
-    }
-}
 
-/**
- * Your TimeMap object will be instantiated and called as such:
- * TimeMap obj = new TimeMap();
- * obj.set(key,value,timestamp);
- * String param_2 = obj.get(key,timestamp);
- */
+        public void set(String key, String value, int timestamp) {
+            n = new Node(key, value, timestamp, n);
+        }
+
+        public String get(String key, int timestamp) {
+            return search(key, timestamp, n);
+        }
+
+        private String search(String key, int timestamp, Node n) {
+            if (n == null) return "";
+            if (key.equals(n.key) && timestamp >= n.timestamp) return n.value;
+            return search(key, timestamp, n.prev);
+        }
+
+        static class Node {
+            String key;
+            String value;
+            int timestamp;
+            Node prev;
+
+            public Node() {
+            }
+
+            public Node(String key, String value, int timestamp, Node prev) {
+                this.key = key;
+                this.value = value;
+                this.timestamp = timestamp;
+                this.prev = prev;
+            }
+        }
+}
