@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1418-fair-distribution-of-cookies](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1418-fair-distribution-of-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
