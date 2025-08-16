@@ -1,12 +1,10 @@
 class Solution {
     public int openLock(String[] deadends, String target) {
         Set<String> dead = new HashSet<>(Arrays.asList(deadends));
-        if (dead.contains("0000")) return -1;
+        if (!dead.add("0000")) return -1;
 
         Queue<String> queue = new LinkedList<>();
         queue.add("0000");
-        Set<String> visited = new HashSet<>();
-        visited.add("0000");
 
         int steps = 0;
         while (!queue.isEmpty()) {
@@ -23,7 +21,7 @@ class Solution {
 
                     for (int next : nextNums) {
                         String nextState = curr.substring(0, j) + next + curr.substring(j + 1);
-                        if (!dead.contains(nextState) && visited.add(nextState)) {
+                        if (dead.add(nextState)) {
                             queue.add(nextState);
                         }
                     }
