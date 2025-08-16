@@ -1,34 +1,68 @@
-class Solution {
+import java.util.*;
+
+public class Solution {
+
     public int openLock(String[] deadends, String target) {
-        Set<String> dead = new HashSet<>(Arrays.asList(deadends));
-        if (!dead.add("0000")) return -1;
+        Set<String> deadSet = new HashSet<>(Arrays.asList(deadends));
+        if (deadSet.contains("0000")) return -1;
+        if (target.equals("0000")) return 0;
 
-        Queue<String> queue = new LinkedList<>();
-        queue.add("0000");
+        Set<String> startSet = new HashSet<>();
+        Set<String> endSet = new HashSet<>();
+        startSet.add("0000");
+        endSet.add(target);
 
-        int steps = 0;
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            for (int i = 0; i < size; i++) {
-                String curr = queue.poll();
-                if (curr.equals(target)) return steps;
+        Set<String> visited = new HashSet<>();
+        visited.add("0000");
+        visited.add(target);
 
-                for (int j = 0; j < 4; j++) {
-                    char c = curr.charAt(j);
-                    int num = c - '0'; // char → digit
-                    // two neighbors: turn wheel up and down
-                    int[] nextNums = { (num + 1) % 10, (num + 9) % 10 };
+        int depth = 0;
 
-                    for (int next : nextNums) {
-                        String nextState = curr.substring(0, j) + next + curr.substring(j + 1);
-                        if (dead.add(nextState)) {
-                            queue.add(nextState);
-                        }
+        while (!startSet.isEmpty() && !endSet.isEmpty()) {
+            if (startSet.size() > endSet.size()) {
+                Set<String> temp = startSet;
+                startSet = endSet;
+                endSet = temp;
+            }
+
+            Set<String> next = new HashSet<>();
+            for (String current : startSet) {
+                if (deadSet.contains(current)) continue;
+
+                for (String neighbor : getNextStates(current)) {
+                    if (endSet.contains(neighbor)) {
+                        return depth + 1; // ✅ found connection
+                    }
+                    if (!visited.contains(neighbor) && !deadSet.contains(neighbor)) {
+                        visited.add(neighbor);
+                        next.add(neighbor);
                     }
                 }
             }
-            steps++;
+            startSet = next;
+            depth++;
         }
+
         return -1;
+    }
+
+    private List<String> getNextStates(String current) {
+        List<String> states = new ArrayList<>();
+        char[] chars = current.toCharArray();
+
+        for (int i = 0; i < 4; i++) {
+            char original = chars[i];
+
+            // Forward
+            chars[i] = (original == '9') ? '0' : (char)(original + 1);
+            states.add(new String(chars));
+
+            // Backward
+            chars[i] = (original == '0') ? '9' : (char)(original - 1);
+            states.add(new String(chars));
+
+            chars[i] = original;
+        }
+        return states;
     }
 }
