@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0772-construct-quad-tree) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
 | [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0720-longest-word-in-dictionary) |
+| [0753-open-the-lock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0720-longest-word-in-dictionary) |
+| [0753-open-the-lock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
