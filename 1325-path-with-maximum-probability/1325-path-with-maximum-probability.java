@@ -2,7 +2,6 @@ class Solution {
     public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
         double[] cost = new double[10001];
         Map<Integer, List<double[]>> map = new HashMap<>();
-        Set<String> visited = new HashSet<>();
         
         for(int i = 0; i < edges.length; i++) {
             int[] edge = edges[i];
@@ -24,9 +23,6 @@ class Solution {
                 
                 int nextNode = (int)path[0];
                 double prob = path[1];
-                String way = "";
-                if(node < nextNode) way = node +"->"+nextNode;
-                else way = nextNode+"->"+node;
                 if((nValue * prob) > cost[nextNode]) {
                         cost[nextNode] = (nValue * prob);
                         queue.add(nextNode);
