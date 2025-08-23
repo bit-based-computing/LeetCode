@@ -1,36 +1,44 @@
+import java.util.*;
+
 class Solution {
-    public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
-        double[] cost = new double[10001];
-        Map<Integer, List<double[]>> map = new HashMap<>();
-        
-        for(int i = 0; i < edges.length; i++) {
-            int[] edge = edges[i];
-            if(map.get(edge[0]) == null) map.put(edge[0], new ArrayList<>());
-            if(map.get(edge[1]) == null) map.put(edge[1], new ArrayList<>());
-            map.get(edge[0]).add(new double[]{edge[1], succProb[i]});
-             map.get(edge[1]).add(new double[]{edge[0], succProb[i]});
+    public double maxProbability(int n, int[][] edges, double[] succProb, int start, int end) {
+        // adjacency list
+        Map<Integer, List<double[]>> graph = new HashMap<>();
+        for (int i = 0; i < edges.length; i++) {
+            int u = edges[i][0], v = edges[i][1];
+            graph.computeIfAbsent(u, k -> new ArrayList<>()).add(new double[]{v, succProb[i]});
+            graph.computeIfAbsent(v, k -> new ArrayList<>()).add(new double[]{u, succProb[i]});
         }
 
-        Queue<Integer> queue = new LinkedList<>();
-        queue.add(start_node);
-        while(!queue.isEmpty()) {
-            int node = (int)queue.poll();
-            if(node == end_node) continue;
-            double nValue = cost[node] == 0 ? 1 : cost[node];
-            List<double[]> paths = map.getOrDefault(node, new ArrayList<>());
-            for(int i = 0; i < paths.size(); i++) {
-                double[] path = paths.get(i);
-                
-                int nextNode = (int)path[0];
-                double prob = path[1];
-                if((nValue * prob) > cost[nextNode]) {
-                        cost[nextNode] = (nValue * prob);
-                        queue.add(nextNode);
-                    }
+        // max probability to reach each node
+        double[] prob = new double[n];
+        prob[start] = 1.0;
+
+        // max-heap: store {probability, node}
+        PriorityQueue<double[]> pq = new PriorityQueue<>((a, b) -> Double.compare(b[0], a[0]));
+        pq.offer(new double[]{1.0, start});
+
+        while (!pq.isEmpty()) {
+            double[] curr = pq.poll();
+            double p = curr[0];
+            int node = (int) curr[1];
+
+            if (node == end) return p; // best probability found
+
+            if (p < prob[node]) continue; // skip if outdated
+
+            for (double[] nei : graph.getOrDefault(node, Collections.emptyList())) {
+                int next = (int) nei[0];
+                double edgeProb = nei[1];
+                double newProb = p * edgeProb;
+
+                if (newProb > prob[next]) {
+                    prob[next] = newProb;
+                    pq.offer(new double[]{newProb, next});
+                }
             }
-
         }
 
-        return cost[end_node];
+        return 0.0;
     }
 }
