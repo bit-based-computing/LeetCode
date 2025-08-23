@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1249-snapshot-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
+| [1325-path-with-maximum-probability](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1325-path-with-maximum-probability](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1325-path-with-maximum-probability) |
 ## Geometry
 |  |
 | ------- |
