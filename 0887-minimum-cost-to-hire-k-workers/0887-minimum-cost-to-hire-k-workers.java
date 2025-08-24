@@ -1,42 +1,38 @@
-public class Solution {
-    public double mincostToHireWorkers(int[] quality, int[] wage, int K) {
-        int n = quality.length;
-        Pair[] workers = new Pair[n];
-        for (int i = 0; i < n; i++) {
-            workers[i] = new Pair((double) wage[i] / quality[i], quality[i]);
+class Solution {
+    public double mincostToHireWorkers(int[] quality, int[] wage, int k) {
+        double ans = Double.MAX_VALUE;
+        List<Pair> workers = new ArrayList<>();
+        for(int i = 0; i < quality.length; i++) {
+            double ratio = (double)wage[i]/(double)quality[i];
+            workers.add(new Pair(ratio, quality[i]));
         }
 
-        // Sort workers by wage/quality ratio
-        Arrays.sort(workers, (a, b) -> Double.compare(a.ratio, b.ratio));
+        workers.sort((a,b)-> Double.compare(a.ratio, b.ratio));
 
-        double minCost = Double.MAX_VALUE;
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> b - a);
-        double sumQuality = 0;
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)-> Integer.compare(b.quality, a.quality));
+        int qualitySum = 0;
+        for(int i = 0; i < workers.size(); i++) {
+            Pair worker = workers.get(i);
+            pq.add(worker);
+            qualitySum += worker.quality;
 
-        for (Pair worker : workers) {
-            maxHeap.add(worker.quality);
-            sumQuality += worker.quality;
-
-            // Maintain heap size of K
-            if (maxHeap.size() > K) {
-                sumQuality -= maxHeap.poll();
+            if(pq.size() > k) {
+                qualitySum -= pq.poll().quality;
             }
-            
-            if (maxHeap.size() == K) {
-                minCost = Math.min(minCost, sumQuality * worker.ratio);
+
+            if(pq.size() == k) {
+                ans = Math.min(ans, qualitySum * worker.ratio);
             }
         }
-
-        return minCost;
+        return ans;
     }
+}
 
-    private static class Pair {
-        double ratio;
-        int quality;
-
-        Pair(double ratio, int quality) {
-            this.ratio = ratio;
-            this.quality = quality;
-        }
+public class Pair{
+    double ratio;
+    int quality;
+    public Pair(double ratio, int quality) {
+        this.ratio = ratio;
+        this.quality = quality;
     }
 }
