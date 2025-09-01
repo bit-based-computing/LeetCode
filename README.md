@@ -889,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0593-valid-square) |
 | [0790-global-and-local-inversions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0790-global-and-local-inversions) |
 | [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0912-random-pick-with-weight) |
@@ -1173,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0149-max-points-on-a-line) |
+| [0593-valid-square](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0593-valid-square) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
 ## Randomized
 |  |
