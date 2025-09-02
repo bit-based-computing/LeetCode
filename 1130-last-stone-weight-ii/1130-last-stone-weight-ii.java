@@ -8,20 +8,19 @@ class Solution {
 
         int half = sum / 2;
 
-        boolean[][] dp = new boolean[len + 1][half + 1];
+        boolean[] dp = new boolean[half + 1];
 
-        dp[0][0] = true;
-        for(int i = 1; i <= len; i++) {
-            int num = stones[i-1];
-            for(int j = 0; j <= half; j++) {
-                dp[i][j] = dp[i-1][j];
-                if(j >= num) {
-                    dp[i][j] = dp[i][j] || dp[i-1][j-num];
+        dp[0] = true;
+        for(int i = 0; i < len; i++) {
+            int num = stones[i];
+            for(int j = half; j >= num; j--) {
+                if(dp[j-num]) {
+                    dp[j] = true;
                 }
             }
         }
         for(int j = half; j >= 0; j--) {
-            if(dp[len][j]) {
+            if(dp[j]) {
                 return sum - (j * 2);
             }
         }
