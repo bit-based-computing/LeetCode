@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1063-best-sightseeing-pair) |
+| [1130-last-stone-weight-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1130-last-stone-weight-ii) |
 | [1185-find-in-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1249-snapshot-array) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
 | [1063-best-sightseeing-pair](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1063-best-sightseeing-pair) |
+| [1130-last-stone-weight-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
