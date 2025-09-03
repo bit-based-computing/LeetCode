@@ -14,15 +14,16 @@ class Solution {
         return min;
     }
 
-    void dfs(int index, int curSum , int count, int n, List<Integer> ps) {
-        if(index >= ps.size()) return;
-        if(count > min) return;
-        if(curSum > n) return;
-        if(curSum == n) {
-            min = Math.min(min, count);
-            return;
-        }
-        dfs(index, curSum + ps.get(index), count +  1, n, ps);
-        dfs(index + 1, curSum , count , n, ps);
+    void dfs(int index, int curSum, int count, int n, List<Integer> ps) {
+    if(curSum == n) {
+        min = Math.min(min, count);
+        return;
     }
+    if(index >= ps.size() || curSum > n || count >= min) return;
+
+    dfs(index, curSum + ps.get(index), count + 1, n, ps);
+
+    dfs(index + 1, curSum, count, n, ps);
+}
+
 }
