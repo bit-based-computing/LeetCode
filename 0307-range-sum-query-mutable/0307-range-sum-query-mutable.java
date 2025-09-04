@@ -1,71 +1,53 @@
 class NumArray {
-    Node head;
+    private int[] tree;
+    private int n;
 
     public NumArray(int[] nums) {
-        head = buildTree(nums, 0, nums.length - 1);
+        n = nums.length;
+        if (n > 0) {
+            tree = new int[4 * n];
+            build(nums, 0, 0, n - 1);
+        }
+    }
+
+    private void build(int[] nums, int idx, int l, int r) {
+        if (l == r) {
+            tree[idx] = nums[l];
+            return;
+        }
+        int mid = l + (r - l) / 2;
+        build(nums, 2 * idx + 1, l, mid);
+        build(nums, 2 * idx + 2, mid + 1, r);
+        tree[idx] = tree[2 * idx + 1] + tree[2 * idx + 2];
     }
 
     public void update(int index, int val) {
-        updateTree(head, index, val);
+        update(0, 0, n - 1, index, val);
+    }
+
+    private void update(int idx, int l, int r, int pos, int val) {
+        if (l == r) {
+            tree[idx] = val;
+            return;
+        }
+        int mid = l + (r - l) / 2;
+        if (pos <= mid) {
+            update(2 * idx + 1, l, mid, pos, val);
+        } else {
+            update(2 * idx + 2, mid + 1, r, pos, val);
+        }
+        tree[idx] = tree[2 * idx + 1] + tree[2 * idx + 2];
     }
 
     public int sumRange(int left, int right) {
-        return getSum(head, left, right);
+        return query(0, 0, n - 1, left, right);
     }
 
-    private Node buildTree(int[] nums, int l, int r) {
-        if (l == r) return new Node(nums[l], l, r);
+    private int query(int idx, int l, int r, int ql, int qr) {
+        if (ql > r || qr < l) return 0; // no overlap
+        if (ql <= l && r <= qr) return tree[idx]; // total overlap
         int mid = l + (r - l) / 2;
-        Node node = new Node(0, l, r);
-        node.left = buildTree(nums, l, mid);
-        node.right = buildTree(nums, mid + 1, r);
-        node.sum = node.left.sum + node.right.sum;
-        return node;
-    }
-
-    public void updateTree(Node node, int index, int val) {
-        if (node.l == node.r) {
-            node.sum = val;
-            return;
-        }
-        if (index <= node.left.r) {
-            updateTree(node.left, index, val);
-        } else {
-            updateTree(node.right, index, val);
-        }
-        node.sum = node.left.sum + node.right.sum;
-    }
-
-    public int getSum(Node node, int l, int r) {
-        if (node.l == l && node.r == r) return node.sum;
-        if (r <= node.left.r) return getSum(node.left, l, r);
-        if (l > node.left.r) return getSum(node.right, l, r);
-
-        return getSum(node.left, l, node.left.r) + getSum(node.right, node.right.l, r);
+        return query(2 * idx + 1, l, mid, ql, qr) +
+               query(2 * idx + 2, mid + 1, r, ql, qr);
     }
 }
-
-class Node {
-    int sum = 0;
-    int l = 0;
-    int r = 0;
-    Node left;
-    Node right;
-
-    Node(int sum, int l, int r) {
-        this.sum = sum;
-        this.l = l;
-        this.r = r;
-    }
-
-    Node() {
-
-    }
-}
-
-/**
- * Your NumArray object will be instantiated and called as such:
- * NumArray obj = new NumArray(nums);
- * obj.update(index,val);
- * int param_2 = obj.sumRange(left,right);
- */
