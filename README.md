@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
+| [0960-minimize-malware-spread](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0960-minimize-malware-spread) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0904-leaf-similar-trees) |
+| [0960-minimize-malware-spread](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0960-minimize-malware-spread) |
 | [1008-binary-tree-cameras](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0931-maximum-frequency-stack) |
+| [0960-minimize-malware-spread](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0960-minimize-malware-spread) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0960-minimize-malware-spread](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1084,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0960-minimize-malware-spread](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0960-minimize-malware-spread) |
 | [1325-path-with-maximum-probability](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1107,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0960-minimize-malware-spread) |
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
 ## Memoization
