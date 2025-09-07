@@ -19,7 +19,7 @@ class Solution {
         // DFS for connected components
         for (List<String> accs : accounts) {
             String email = accs.get(1);
-            if (!visited.contains(email)) {
+            if (visited.add(email)) {
                 List<String> emailList = new ArrayList<>();
                 dfs(email, graph, visited, emailList);
                 Collections.sort(emailList);
@@ -34,10 +34,9 @@ class Solution {
     }
 
     void dfs(String email, Map<String, List<String>> graph, Set<String> visited, List<String> emailList) {
-        visited.add(email);
         emailList.add(email);
         for (String neighbor : graph.getOrDefault(email, new ArrayList<>())) {
-            if (!visited.contains(neighbor)) {
+            if (visited.add(neighbor)) {
                 dfs(neighbor, graph, visited, emailList);
             }
         }
