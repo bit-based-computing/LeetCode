@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-process-tasks-using-servers](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2012-process-tasks-using-servers) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2429-design-a-food-rating-system) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Sorting
 |  |
 | ------- |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1418-fair-distribution-of-cookies](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1418-fair-distribution-of-cookies) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Greedy
 |  |
 | ------- |
@@ -1191,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0813-all-paths-from-source-to-target) |
 | [1418-fair-distribution-of-cookies](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1418-fair-distribution-of-cookies) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1218,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1418-fair-distribution-of-cookies](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1418-fair-distribution-of-cookies) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Game Theory
 |  |
 | ------- |
