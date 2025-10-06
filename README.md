@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
+| [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1046-max-consecutive-ones-iii) |
+| [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 | [1185-find-in-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1185-find-in-mountain-array) |
 | [1249-snapshot-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1023-time-based-key-value-store) |
+| [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1297-maximum-number-of-balloons) |
@@ -1167,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
+| [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1227,4 +1231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
+## Rolling Hash
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
