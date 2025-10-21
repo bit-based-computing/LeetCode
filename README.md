@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0754-cracking-the-safe) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0754-cracking-the-safe) |
 | [0801-is-graph-bipartite](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0813-all-paths-from-source-to-target) |
@@ -1240,4 +1242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
