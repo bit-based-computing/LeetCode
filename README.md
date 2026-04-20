@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
@@ -174,8 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
@@ -203,8 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0969-number-of-recent-calls) |
@@ -213,8 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0076-minimum-window-substring) |
@@ -235,8 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
@@ -273,15 +273,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2429-design-a-food-rating-system) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1622-max-value-of-equation) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -313,8 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
@@ -346,8 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0316-remove-duplicate-letters) |
@@ -359,8 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0456-132-pattern](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
@@ -369,8 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2429-design-a-food-rating-system) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0735-asteroid-collision) |
@@ -379,8 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -411,8 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0014-longest-common-prefix) |
@@ -466,8 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0042-trapping-rain-water) |
@@ -526,8 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0056-merge-intervals) |
@@ -562,8 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1962-single-threaded-cpu](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1962-single-threaded-cpu) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0347-top-k-frequent-elements) |
@@ -576,8 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
@@ -629,8 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0101-symmetric-tree) |
@@ -689,8 +689,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
@@ -739,8 +739,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0036-valid-sudoku) |
@@ -809,8 +809,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0053-maximum-subarray) |
@@ -832,28 +832,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0948-sort-an-array) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0021-merge-two-sorted-lists) |
@@ -886,8 +886,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0024-swap-nodes-in-pairs) |
@@ -899,8 +899,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0394-decode-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0009-palindrome-number) |
@@ -927,8 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0190-reverse-bits) |
@@ -945,8 +945,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -967,14 +967,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1762-furthest-building-you-can-reach](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -989,8 +989,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
@@ -1017,8 +1017,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2429-design-a-food-rating-system) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0303-range-sum-query-immutable) |
@@ -1033,8 +1033,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2102-find-the-middle-index-in-array) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0102-binary-tree-level-order-traversal) |
@@ -1082,14 +1082,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0374-guess-number-higher-or-lower) |
 | [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 | [1185-find-in-mountain-array](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1185-find-in-mountain-array) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0310-minimum-height-trees) |
@@ -1109,16 +1109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0200-number-of-islands) |
@@ -1132,25 +1132,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1753-path-with-minimum-effort) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1236-n-th-tribonacci-number) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1582-design-browser-history) |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0173-binary-search-tree-iterator) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0937-online-stock-span) |
@@ -1158,8 +1158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1582-design-browser-history) |
 | [2161-stock-price-fluctuation](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2161-stock-price-fluctuation) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0208-implement-trie-prefix-tree) |
@@ -1171,25 +1171,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1397-search-suggestions-system) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0817-design-hashmap) |
 | [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0729-my-calendar-i) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0040-combination-sum-ii) |
@@ -1205,47 +1205,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1418-fair-distribution-of-cookies) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0744-network-delay-time](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0149-max-points-on-a-line) |
 | [0593-valid-square](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0593-valid-square) |
 | [1014-k-closest-points-to-origin](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1014-k-closest-points-to-origin) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0380-insert-delete-getrandom-o1) |
 | [0912-random-pick-with-weight](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0912-random-pick-with-weight) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1418-fair-distribution-of-cookies](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1418-fair-distribution-of-cookies) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0873-guess-the-word](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0873-guess-the-word) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 ## Suffix Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1122-longest-duplicate-substring](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/1122-longest-duplicate-substring) |
 ## Eulerian Circuit
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0754-cracking-the-safe](https://github.com/bit-based-computing/LeetCode-GeekForGeeks/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
