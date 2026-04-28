@@ -1,40 +1,44 @@
 class Solution {
     public int maxPoints(int[][] points) {
+
         int len = points.length;
-        if (len <= 2)
-            return len;
-        int max = 0;
-
+        int maxPoint = 0;
         for (int i = 0; i < len; i++) {
-            Map<String, Integer> slopes = new HashMap<>();
-            int duplicate = 1;
-            int cMax = 0;
-            for (int j = 0; j < len; j++) {
-                if (i == j) continue;
-
-                int y = points[j][1] - points[i][1];
-                int x = points[j][0] - points[i][0];
-                if (x == 0 && y == 0) {
-                    duplicate++;
-                    continue;
-                }
-                int commonDivisor = gcd(x, y);
-                x = x / commonDivisor;
-                y = y / commonDivisor;
-
-                String s = y + "/" + x;
-                slopes.put(s, slopes.getOrDefault(s, 0) + 1);
-                cMax = Math.max(cMax, slopes.get(s));
-            }
-            
-            max = Math.max(max, cMax + duplicate);
+            int count = getMaxCounts(i, points);
+            maxPoint = Math.max(count, maxPoint);
         }
-        return max;
+        return maxPoint;
     }
 
-    public int gcd(int a, int b) {
-        if (b == 0)
-            return a;
-        return gcd(b, a % b);
+    public int getMaxCounts(int focalIndex, int[][] points) {
+
+        Map<String, Integer> pointMap = new HashMap<>();
+        int maxPoint = 0;
+        int len = points.length;
+        for (int i = 0; i < len; i++) {
+            if (i == focalIndex)
+                continue;
+            int raise = points[i][1] - points[focalIndex][1];
+            int run = points[i][0] - points[focalIndex][0];
+            String s = "1_0";
+            if (run != 0) {
+                int gcd = getGcd(raise, run);
+                raise = raise / gcd;
+                run = run / gcd;
+                s = raise + "_" + run;
+            }
+            pointMap.put(s, pointMap.getOrDefault(s, 0) + 1);
+            maxPoint = Math.max(maxPoint, pointMap.get(s));
+        }
+        return maxPoint + 1;
+    }
+
+    int getGcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 }
